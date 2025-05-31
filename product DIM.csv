@@ -1,0 +1,521 @@
+﻿Product Category Id,product id,Product Name,Product Price,Product Card Id,Category Name,Item Profit Ratio,Order Item Discount
+3,20537,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,44,Baseball & Softball,0.25999999,15
+3,26173,adidas Men's F10 Messi TRX FG Soccer Cleat,59.99000168,44,Baseball & Softball,0.059999999,40.79000092
+26,119624,adidas Youth Germany Black/Red Away Match Soc,70,565,Girls' Apparel,0.270000011,44.79999924
+26,133897,adidas Youth Germany Black/Red Away Match Soc,70,565,Girls' Apparel,0.109999999,3.5
+26,139149,adidas Youth Germany Black/Red Away Match Soc,70,565,Girls' Apparel,0.109999999,70
+60,177508,Baby sweater,59.08000183,1347,Baby,-0.769999981,8.859999657
+37,111824,Bridgestone e6 Straight Distance NFL Carolina,31.98999977,835,Electronics,0.349999994,5.119999886
+37,128444,Bridgestone e6 Straight Distance NFL San Dieg,31.98999977,828,Electronics,0.310000002,12.80000019
+37,67646,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,825,Electronics,0.349999994,0
+37,124661,Bridgestone e6 Straight Distance NFL Tennesse,31.98999977,825,Electronics,0.090000004,28.79000092
+12,153077,Brooks Women's Ghost 6 Running Shoe,89.98999786,251,Boxing & MMA,0.180000007,112.4899979
+63,177766,Children's heaters,357.1000061,1350,Children's Clothing,-0.649999976,46.41999817
+29,130341,Columbia Men's PFG Anchor Tough T-Shirt,30,642,Shop By Sport,0.49000001,13.5
+44,104311,ENO Atlas Hammock Straps,29.98999977,977,Hunting & Shooting,0.449999988,29.98999977
+44,141192,ENO Atlas Hammock Straps,29.98999977,977,Hunting & Shooting,0.280000001,25.48999977
+41,94445,Glove It Urban Brick Golf Towel,15.98999977,924,Trade-In,0.449999988,7.679999828
+36,128006,Glove It Women's Imperial Golf Glove,19.98999977,804,Golf Balls,0.25999999,3
+36,122273,Glove It Women's Mod Oval Golf Glove,19.98999977,810,Golf Balls,0.409999996,12.78999996
+65,174366,Industrial consumer electronics,252.8800049,1352,Consumer Electronics,0.029999999,22.76000023
+70,175757,Men's gala suit,210.8500061,1357,Men's Clothing,0.449999988,21.09000015
+70,175773,Men's gala suit,210.8500061,1357,Men's Clothing,-1.429999948,27.40999985
+70,175848,Men's gala suit,210.8500061,1357,Men's Clothing,0.49000001,18.97999954
+18,27107,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.090000004,1.299999952
+18,36657,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,3.900000095
+18,41066,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.419999987,2.599999905
+18,53192,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.090000004,15.60000038
+18,53530,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.230000004,15.60000038
+18,53808,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.239999995,9.100000381
+18,54683,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.129999995,11.69999981
+18,54795,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.349999994,13
+18,54942,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.330000013,13
+18,54950,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.460000008,11.69999981
+18,58110,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.300000012,11.69999981
+18,58260,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,16.89999962
+18,58688,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.670000017,19.5
+18,59474,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.129999995,9.100000381
+18,59572,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.349999994,15.60000038
+18,60210,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.549999952,9.100000381
+18,61462,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.059999999,19.5
+18,61470,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.49000001,16.89999962
+18,61483,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.059999999,11.69999981
+18,62000,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.109999999,19.5
+18,62621,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.209999993,6.5
+18,63064,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.129999995,6.5
+18,63711,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.879999995,9.100000381
+18,65542,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.230000004,15.60000038
+18,67197,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.600000024,9.100000381
+18,67304,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.129999995,13
+18,68159,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.479999989,15.60000038
+18,68507,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.330000013,11.69999981
+18,68738,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.439999998,16.89999962
+18,68790,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.059999999,9.100000381
+18,69867,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.349999994,7.150000095
+18,69967,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.5,13
+18,70143,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.039999999,6.5
+18,73253,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.340000004,11.69999981
+18,75154,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.5,7.150000095
+18,75410,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,9.100000381
+18,75794,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,16.89999962
+18,76585,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.330000043,16.89999962
+18,76714,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.340000004,15.60000038
+18,77102,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,6.5
+18,77398,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.439999998,7.150000095
+18,77469,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.800000012,15.60000038
+18,103859,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.100000001,9.100000381
+18,104041,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.5,15.60000038
+18,104060,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.330000013,5.199999809
+18,104577,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.330000013,5.199999809
+18,105539,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-0.159999996,13
+18,105750,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.100000001,7.150000095
+18,108061,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,-1.5,16.89999962
+18,114148,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.439999998,6.5
+18,121833,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.159999996,6.5
+18,123961,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.25999999,15.60000038
+18,124741,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.100000001,16.89999962
+18,124787,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.209999993,11.69999981
+18,125882,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.479999989,19.5
+18,126101,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.090000004,19.5
+18,126524,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.330000013,13
+18,162500,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.349999994,9.100000381
+18,165859,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.300000012,20.79999924
+18,166013,Nike Men's CJ Elite 2 TD Football Cleat,129.9900055,403,Men's Footwear,0.49000001,15.60000038
+6,110520,Nike Men's Comfort 2 Slide,44.99000168,116,Tennis & Racquet,0.360000014,9
+6,120131,Nike Men's Comfort 2 Slide,44.99000168,116,Tennis & Racquet,0.439999998,38.24000168
+26,22602,Nike Men's Deutschland Weltmeister Winners Bl,30,564,Girls' Apparel,-1.549999952,27
+26,104416,Nike Men's Deutschland Weltmeister Winners Bl,30,564,Girls' Apparel,0.280000001,8.399999619
+24,7273,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.25999999,2
+24,7333,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.349999994,0
+24,7805,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.479999989,32.5
+24,11226,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.270000011,13
+24,13796,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.460000008,10
+24,14921,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.100000001,18
+24,16941,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.330000013,12
+24,20277,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.330000013,10
+24,22094,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.289999992,40
+24,22214,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.280000001,37.5
+24,24177,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.230000004,15
+24,24992,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,62.5
+24,25272,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.129999995,32.5
+24,25725,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.349999994,1
+24,29833,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.730000019,0
+24,34400,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.800000012,14
+24,43391,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.389999986,20
+24,45583,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.25999999,34
+24,49112,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.400000006,11
+24,52260,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.340000004,4
+24,53008,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.310000002,17.5
+24,53018,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.25,13.75
+24,54283,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,4
+24,65260,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.239999995,17.5
+24,67330,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.239999995,12
+24,72836,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.159999996,2
+24,74708,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.379999995,16
+24,75618,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.430000007,17
+24,77528,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,13
+24,103766,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.469999999,14
+24,104569,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.340000004,42.5
+24,106390,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-1.549999952,40
+24,108079,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-1.600000024,34
+24,108885,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.449999988,11
+24,110667,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.479999989,2
+24,110981,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,24
+24,111395,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.059999999,12.5
+24,111568,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-1.75,34
+24,112738,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.360000014,50
+24,113719,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.07,30
+24,114342,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.439999998,10
+24,116011,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,3
+24,116672,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.059999999,42.5
+24,117485,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.029999999,2.5
+24,117955,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-2.700000048,30
+24,119125,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.310000002,45
+24,119384,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.730000019,10
+24,119835,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.289999992,36
+24,121561,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.100000001,25
+24,122703,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.189999998,18
+24,125535,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.389999986,12.5
+24,127882,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.449999988,0
+24,130737,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.360000014,10
+24,130831,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.239999995,10
+24,131161,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.300000012,25
+24,131420,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.469999999,10
+24,131429,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.330000013,7
+24,131932,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.340000004,30
+24,136156,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.430000007,0
+24,136276,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.460000008,20
+24,138833,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.680000007,30
+24,140631,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-1.75,7
+24,142664,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.180000007,32.5
+24,142841,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.219999999,13.75
+24,142954,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.239999995,5
+24,144075,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.699999988,50
+24,146742,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0,1
+24,147424,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.270000011,25
+24,148446,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.200000003,10
+24,148673,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,-0.059999999,62.5
+24,149496,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.430000007,4
+24,150464,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.219999999,32.5
+24,151122,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.039999999,37.5
+24,151598,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,12.5
+24,153614,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.49000001,50
+24,163539,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.460000008,14
+24,166874,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.469999999,36
+24,167372,Nike Men's Dri-FIT Victory Golf Polo,50,502,Women's Apparel,0.280000001,2
+9,4379,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.400000006,14
+9,4973,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.389999986,32
+9,5525,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.039999999,5
+9,21551,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.050000001,50
+9,21674,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-1.649999976,25
+9,25020,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.620000005,26
+9,25275,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.469999999,10
+9,28304,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.360000014,8
+9,38024,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.170000002,5
+9,38553,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.469999999,13
+9,39413,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.25999999,59.99000168
+9,41034,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.189999998,36
+9,43053,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.479999989,124.9899979
+9,43087,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.340000004,99.98999786
+9,43356,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.419999987,48
+9,43402,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.25999999,79.98999786
+9,43664,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.230000004,50
+9,47903,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.449999988,89.98999786
+9,47915,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.449999988,20
+9,48809,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.280000001,40
+9,51911,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.039999999,34
+9,52295,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.319999993,25
+9,53020,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.25999999,4
+9,55735,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.209999993,4
+9,57534,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.310000002,26
+9,59793,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.5,84.98999786
+9,59998,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.289999992,50
+9,61194,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.150000006,74.98999786
+9,62257,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.49000001,18
+9,69461,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.230000004,50
+9,71494,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.090000004,34
+9,74379,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.310000002,35
+9,75003,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.090000004,30
+9,77387,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.460000008,36
+9,77830,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.270000011,124.9899979
+9,78398,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.479999989,21
+9,86490,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.730000019,6
+9,101052,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.289999992,27
+9,103813,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.479999989,12
+9,106706,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.730000019,36
+9,106778,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-1.700000048,35
+9,107084,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.469999999,20
+9,108572,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.340000004,4
+9,108697,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.479999989,0
+9,110025,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.699999988,36
+9,110620,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.140000001,25
+9,114090,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.600000024,27.5
+9,116042,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.230000004,48
+9,117074,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.460000008,36
+9,117458,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.090000004,25
+9,118360,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.270000011,59.99000168
+9,119635,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.879999995,99.98999786
+9,123770,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.379999995,45
+9,129710,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.469999999,4
+9,150522,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.079999998,20
+9,155832,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.230000004,15
+9,159475,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.449999988,64.98999786
+9,159751,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.289999992,16
+9,159828,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.49000001,30
+9,160184,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.280000001,89.98999786
+9,160566,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.469999999,12
+9,160678,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.340000004,79.98999786
+9,161109,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.5,15
+9,161304,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.090000004,89.98999786
+9,163231,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.49000001,22
+9,166720,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.409999996,79.98999786
+9,167475,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.479999989,20
+9,167556,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.239999995,15
+9,167612,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.100000001,20
+9,168171,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.529999971,89.98999786
+9,168920,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.460000008,25
+9,169554,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,-0.159999996,124.9899979
+9,169683,Nike Men's Free 5.0+ Running Shoe,99.98999786,191,Cardio Equipment,0.090000004,71.98999786
+17,5832,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.310000002,15.60000038
+17,11090,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.189999998,38.99000168
+17,15435,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.129999995,15
+17,16305,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,53.99000168
+17,23280,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.189999998,47.99000168
+17,26313,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.100000001,9
+17,26512,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.159999996,35.99000168
+17,27189,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.360000014,9.600000381
+17,27736,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.300000012,3
+17,28449,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.280000001,3
+17,28483,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.289999992,0
+17,29901,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-2.75,0
+17,31010,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,13.19999981
+17,33275,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.49000001,4.800000191
+17,33905,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,44.99000168
+17,34810,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.01,9
+17,34880,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,28.79999924
+17,35002,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.180000007,50.99000168
+17,36402,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.330000013,6
+17,39463,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.360000014,3
+17,40196,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.379999995,38.99000168
+17,40211,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,35.99000168
+17,40487,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.409999996,0
+17,40891,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.340000004,16.5
+17,41460,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.289999992,43.18999863
+17,41902,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.180000007,27
+17,42135,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.360000014,43.18999863
+17,43448,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.150000006,0
+17,44297,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.07,30
+17,45533,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.349999994,43.18999863
+17,46117,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.340000004,12
+17,48340,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.050000001,12
+17,49329,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,21.60000038
+17,49932,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.340000004,3
+17,52520,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.01,0
+17,53007,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.340000004,16.5
+17,54260,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,6.599999905
+17,54280,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.079999998,6
+17,54790,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.289999992,6
+17,55227,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.039999999,16.20000076
+17,55831,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.469999999,7.800000191
+17,57969,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.280000001,16.5
+17,59305,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.100000001,7.800000191
+17,59768,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.230000004,20.39999962
+17,63668,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.379999995,44.99000168
+17,64151,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.330000013,3.599999905
+17,64329,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.310000002,0
+17,64696,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.319999993,19.20000076
+17,65158,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.270000011,7.800000191
+17,70443,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,3
+17,74420,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,5.400000095
+17,74735,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.100000001,21.60000038
+17,75233,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.349999994,3.299999952
+17,78230,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.209999993,9.899999619
+17,81596,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.439999998,21.60000038
+17,83892,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-1.700000048,12.60000038
+17,86191,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.059999999,9
+17,103211,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.360000014,35.99000168
+17,103815,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.270000011,0
+17,105073,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.25999999,44.99000168
+17,105115,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.409999996,13.19999981
+17,105703,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.059999999,12
+17,106792,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.449999988,6
+17,106946,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.25,3
+17,110959,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.340000004,6
+17,111642,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.02,7.800000191
+17,111953,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.100000001,9
+17,112233,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.730000019,28.79999924
+17,112451,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.209999993,30
+17,112591,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.270000011,0
+17,113166,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.039999999,38.99000168
+17,114931,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.330000013,47.99000168
+17,115136,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.360000014,28.79999924
+17,117152,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.289999992,35.99000168
+17,117157,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.479999989,31.19000053
+17,117694,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-1.649999976,44.99000168
+17,119355,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.300000012,21.60000038
+17,122405,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.330000013,8.399999619
+17,124509,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.100000001,7.199999809
+17,124839,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.25999999,21
+17,126418,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.460000008,44.99000168
+17,126673,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.349999994,35.99000168
+17,131310,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.449999988,14.39999962
+17,131382,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,6
+17,133251,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.280000001,3
+17,133933,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.330000013,20.39999962
+17,136489,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.280000001,74.98999786
+17,137558,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.49000001,18
+17,139714,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.469999999,0
+17,140672,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.5,44.99000168
+17,141623,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.370000005,20.39999962
+17,145886,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.400000006,74.98999786
+17,151294,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.280000001,27
+17,154018,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.409999996,38.99000168
+17,155234,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.090000004,7.199999809
+17,155615,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.300000012,9
+17,155767,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.330000013,35.99000168
+17,156394,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.25999999,12.60000038
+17,156977,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,-0.479999989,9.600000381
+17,157066,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.25,7.199999809
+17,157125,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.469999999,59.99000168
+17,158770,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.109999999,27
+17,158778,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.5,4.800000191
+17,158916,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.370000005,12
+17,159589,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.300000012,9
+17,159991,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,47.99000168
+17,161667,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.050000001,6
+17,164682,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.140000001,13.19999981
+17,167580,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.479999989,16.5
+17,168290,Perfect Fitness Perfect Rip Deck,59.99000168,365,Cleats,0.310000002,16.5
+66,174586,Porcelain crafts,461.480011,1353,Crafts,0.050000001,4.610000134
+66,178038,Porcelain crafts,461.480011,1353,Crafts,0.090000004,32.29999924
+66,178111,Porcelain crafts,461.480011,1353,Crafts,0.100000001,25.37999916
+73,176536,Smart watch,327.75,1360,Sporting Goods,0.479999989,0
+73,179044,Smart watch,327.75,1360,Sporting Goods,0.360000014,81.94000244
+73,179046,Smart watch,327.75,1360,Sporting Goods,-0.379999995,59
+73,179047,Smart watch,327.75,1360,Sporting Goods,-0.730000019,55.72000122
+73,179051,Smart watch,327.75,1360,Sporting Goods,0.479999989,39.33000183
+73,179052,Smart watch,327.75,1360,Sporting Goods,0.349999994,32.77999878
+73,179053,Smart watch,327.75,1360,Sporting Goods,0.280000001,29.5
+73,179056,Smart watch,327.75,1360,Sporting Goods,0.389999986,16.38999939
+73,179057,Smart watch,327.75,1360,Sporting Goods,0.349999994,13.10999966
+73,179058,Smart watch,327.75,1360,Sporting Goods,-0.200000003,9.829999924
+73,179061,Smart watch,327.75,1360,Sporting Goods,0.460000008,0
+73,179064,Smart watch,327.75,1360,Sporting Goods,0.200000003,59
+73,179066,Smart watch,327.75,1360,Sporting Goods,-0.230000004,52.43999863
+73,179067,Smart watch,327.75,1360,Sporting Goods,0.25999999,49.15999985
+73,179071,Smart watch,327.75,1360,Sporting Goods,0.100000001,29.5
+73,179072,Smart watch,327.75,1360,Sporting Goods,-1.649999976,22.94000053
+73,179076,Smart watch,327.75,1360,Sporting Goods,0.460000008,9.829999924
+73,179081,Smart watch,327.75,1360,Sporting Goods,0.340000004,65.55000305
+73,179082,Smart watch,327.75,1360,Sporting Goods,0.170000002,59
+73,179083,Smart watch,327.75,1360,Sporting Goods,0.109999999,55.72000122
+73,179086,Smart watch,327.75,1360,Sporting Goods,0.340000004,42.61000061
+73,179095,Smart watch,327.75,1360,Sporting Goods,0.5,6.559999943
+73,179096,Smart watch,327.75,1360,Sporting Goods,0.109999999,3.279999971
+73,179097,Smart watch,327.75,1360,Sporting Goods,0.289999992,0
+73,179098,Smart watch,327.75,1360,Sporting Goods,0.349999994,81.94000244
+73,179106,Smart watch,327.75,1360,Sporting Goods,-2.700000048,32.77999878
+73,179107,Smart watch,327.75,1360,Sporting Goods,-1.5,29.5
+73,179108,Smart watch,327.75,1360,Sporting Goods,-1.549999952,22.94000053
+73,179111,Smart watch,327.75,1360,Sporting Goods,0.430000007,13.10999966
+73,179112,Smart watch,327.75,1360,Sporting Goods,0.100000001,9.829999924
+73,179113,Smart watch,327.75,1360,Sporting Goods,0.449999988,6.559999943
+73,179117,Smart watch,327.75,1360,Sporting Goods,-0.170000002,65.55000305
+73,179131,Smart watch,327.75,1360,Sporting Goods,0.090000004,6.559999943
+73,179132,Smart watch,327.75,1360,Sporting Goods,-0.730000019,3.279999971
+73,179133,Smart watch,327.75,1360,Sporting Goods,-0.769999981,0
+73,179136,Smart watch,327.75,1360,Sporting Goods,0.100000001,59
+73,179137,Smart watch,327.75,1360,Sporting Goods,0.360000014,55.72000122
+73,179138,Smart watch,327.75,1360,Sporting Goods,-0.670000017,52.43999863
+73,179141,Smart watch,327.75,1360,Sporting Goods,0.469999999,39.33000183
+73,179142,Smart watch,327.75,1360,Sporting Goods,0.330000013,32.77999878
+73,179143,Smart watch,327.75,1360,Sporting Goods,0.07,29.5
+73,179151,Smart watch,327.75,1360,Sporting Goods,-1.649999976,0
+73,179156,Smart watch,327.75,1360,Sporting Goods,0.49000001,52.43999863
+73,179157,Smart watch,327.75,1360,Sporting Goods,0.25,49.15999985
+73,179161,Smart watch,327.75,1360,Sporting Goods,0.419999987,29.5
+73,179162,Smart watch,327.75,1360,Sporting Goods,0.280000001,22.94000053
+73,179166,Smart watch,327.75,1360,Sporting Goods,0.349999994,9.829999924
+73,179167,Smart watch,327.75,1360,Sporting Goods,0.059999999,6.559999943
+73,179171,Smart watch,327.75,1360,Sporting Goods,0.330000013,65.55000305
+73,179172,Smart watch,327.75,1360,Sporting Goods,0.49000001,59
+73,179174,Smart watch,327.75,1360,Sporting Goods,-0.230000004,52.43999863
+73,179176,Smart watch,327.75,1360,Sporting Goods,0.379999995,42.61000061
+73,179177,Smart watch,327.75,1360,Sporting Goods,-1.549999952,39.33000183
+73,179178,Smart watch,327.75,1360,Sporting Goods,0.079999998,32.77999878
+73,179180,Smart watch,327.75,1360,Sporting Goods,-0.109999999,22.94000053
+73,179181,Smart watch,327.75,1360,Sporting Goods,0.25999999,18.03000069
+73,179182,Smart watch,327.75,1360,Sporting Goods,0.479999989,16.38999939
+73,179187,Smart watch,327.75,1360,Sporting Goods,0.439999998,0
+73,179188,Smart watch,327.75,1360,Sporting Goods,-0.670000017,81.94000244
+73,179191,Smart watch,327.75,1360,Sporting Goods,0.129999995,55.72000122
+73,179192,Smart watch,327.75,1360,Sporting Goods,-0.200000003,52.43999863
+73,179193,Smart watch,327.75,1360,Sporting Goods,0.079999998,49.15999985
+73,179196,Smart watch,327.75,1360,Sporting Goods,0.200000003,32.77999878
+73,179197,Smart watch,327.75,1360,Sporting Goods,0.25,29.5
+73,179201,Smart watch,327.75,1360,Sporting Goods,0.360000014,13.10999966
+73,179202,Smart watch,327.75,1360,Sporting Goods,0.349999994,9.829999924
+73,179203,Smart watch,327.75,1360,Sporting Goods,-0.109999999,6.559999943
+73,179206,Smart watch,327.75,1360,Sporting Goods,0.419999987,81.94000244
+73,179207,Smart watch,327.75,1360,Sporting Goods,-0.180000007,65.55000305
+73,179208,Smart watch,327.75,1360,Sporting Goods,0,59
+73,179211,Smart watch,327.75,1360,Sporting Goods,0.109999999,49.15999985
+73,179212,Smart watch,327.75,1360,Sporting Goods,0.419999987,42.61000061
+73,179213,Smart watch,327.75,1360,Sporting Goods,0.460000008,39.33000183
+73,179216,Smart watch,327.75,1360,Sporting Goods,0.189999998,22.94000053
+73,179223,Smart watch,327.75,1360,Sporting Goods,0.079999998,0
+73,179226,Smart watch,327.75,1360,Sporting Goods,0.090000004,59
+73,179227,Smart watch,327.75,1360,Sporting Goods,-0.059999999,55.72000122
+73,179228,Smart watch,327.75,1360,Sporting Goods,0.300000012,52.43999863
+73,179231,Smart watch,327.75,1360,Sporting Goods,0.310000002,39.33000183
+73,179232,Smart watch,327.75,1360,Sporting Goods,0.059999999,32.77999878
+73,179235,Smart watch,327.75,1360,Sporting Goods,0.5,18.03000069
+73,179236,Smart watch,327.75,1360,Sporting Goods,0.280000001,16.38999939
+73,179245,Smart watch,327.75,1360,Sporting Goods,0.479999989,55.72000122
+73,179250,Smart watch,327.75,1360,Sporting Goods,0.059999999,32.77999878
+73,179251,Smart watch,327.75,1360,Sporting Goods,0.449999988,29.5
+73,179252,Smart watch,327.75,1360,Sporting Goods,0.079999998,22.94000053
+73,179253,Smart watch,327.75,1360,Sporting Goods,-0.800000012,18.03000069
+73,180517,Smart watch,327.75,1360,Sporting Goods,0.289999992,13.10999966
+76,177208,Summer dresses,215.8200073,1363,Women's Clothing,0.360000014,15.10999966
+76,177221,Summer dresses,215.8200073,1363,Women's Clothing,0.270000011,32.36999893
+76,180162,Summer dresses,215.8200073,1363,Women's Clothing,-0.059999999,25.89999962
+76,180291,Summer dresses,215.8200073,1363,Women's Clothing,0.310000002,15.10999966
+76,180307,Summer dresses,215.8200073,1363,Women's Clothing,0.25999999,21.57999992
+76,180417,Summer dresses,215.8200073,1363,Women's Clothing,0.379999995,15.10999966
+40,21771,Team Golf New England Patriots Putter Grip,24.98999977,897,Accessories,0.449999988,2.5
+40,96337,Team Golf Pittsburgh Steelers Putter Grip,24.98999977,893,Accessories,0.49000001,0.75
+40,2257,Team Golf San Francisco Giants Putter Grip,24.98999977,886,Accessories,0.25999999,8.5
+40,4490,Team Golf San Francisco Giants Putter Grip,24.98999977,886,Accessories,0.270000011,6.869999886
+40,111088,Team Golf San Francisco Giants Putter Grip,24.98999977,886,Accessories,0.340000004,6.869999886
+40,121217,Team Golf St. Louis Cardinals Putter Grip,24.98999977,885,Accessories,0.49000001,5.5
+40,113282,Team Golf Tennessee Volunteers Putter Grip,24.98999977,906,Accessories,0.469999999,2.75
+40,14229,Team Golf Texas Longhorns Putter Grip,24.98999977,905,Accessories,0.289999992,2.75
+40,104591,Team Golf Texas Longhorns Putter Grip,24.98999977,905,Accessories,0.039999999,19.98999977
+40,120515,Team Golf Texas Longhorns Putter Grip,24.98999977,905,Accessories,0.479999989,10
+37,142889,Titleist Pro V1x Golf Balls,47.99000168,818,Electronics,0.079999998,0
+37,115172,Titleist Pro V1x High Numbers Golf Balls,47.99000168,822,Electronics,0.270000011,0
+26,8768,TYR Boys' Team Digi Jammer,39.99000168,572,Girls' Apparel,0.349999994,20
+26,112704,TYR Boys' Team Digi Jammer,39.99000168,572,Girls' Apparel,-0.25,5.599999905
+26,133008,TYR Boys' Team Digi Jammer,39.99000168,572,Girls' Apparel,0.109999999,14.39999962
+29,922,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.330000013,8
+29,2420,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.5,31.98999977
+29,3424,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.079999998,29.98999977
+29,6064,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.340000004,25.98999977
+29,9026,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.449999988,6
+29,9521,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.25999999,29.98999977
+29,14655,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.239999995,8
+29,15921,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.360000014,11
+29,18572,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.280000001,0.800000012
+29,54960,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.469999999,8
+29,56568,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.239999995,12
+29,59438,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.349999994,10.39999962
+29,61755,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.340000004,6.400000095
+29,62323,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.090000004,2.400000095
+29,69211,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.100000001,2.400000095
+29,71724,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.479999989,2
+29,76715,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.379999995,7.199999809
+29,77993,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.449999988,14.39999962
+29,93579,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.059999999,1.200000048
+29,98043,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.090000004,20.38999939
+29,103905,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.769999981,20.38999939
+29,104898,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.289999992,4.800000191
+29,105260,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.330000013,2.400000095
+29,107336,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.289999992,20.79000092
+29,112334,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.330000013,33.99000168
+29,112427,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.300000012,25.98999977
+29,113598,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-1.549999952,0.800000012
+29,114401,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.330000013,4
+29,114641,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.349999994,0.800000012
+29,115752,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.5,29.98999977
+29,118732,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.059999999,28.79000092
+29,119885,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.460000008,1.600000024
+29,123061,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.319999993,20.79000092
+29,129285,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.300000012,0
+29,131482,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.330000013,14.39999962
+29,133877,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.159999996,4
+29,138382,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.189999998,4
+29,140494,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.059999999,18
+29,140615,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.5,8
+29,143183,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.449999988,25.98999977
+29,148243,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.200000003,31.98999977
+29,148919,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.349999994,3.200000048
+29,150929,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,-0.159999996,9.600000381
+29,151869,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.460000008,49.99000168
+29,152307,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.090000004,13.60000038
+29,158064,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.189999998,8
+29,167369,Under Armour Girls' Toddler Spine Surge Runni,39.99000168,627,Shop By Sport,0.310000002,28.79000092
+13,38639,Under Armour Kids' Mercenary Slide,27.98999977,273,Electronics,0.479999989,2.799999952
+13,84424,Under Armour Men's Compression EV SL Slide,44.99000168,278,Electronics,0.230000004,6.75
+13,90273,Under Armour Men's Compression EV SL Slide,44.99000168,278,Electronics,0.300000012,15.30000019
+13,124392,Under Armour Men's Compression EV SL Slide,44.99000168,278,Electronics,0.479999989,21.60000038
+5,38097,Under Armour Men's Tech II T-Shirt,24.98999977,93,Lacrosse,0.349999994,9
+13,29569,Under Armour Women's Ignite PIP VI Slide,31.98999977,282,Electronics,-0.600000024,11.52000046
+13,105583,Under Armour Women's Ignite PIP VI Slide,31.98999977,282,Electronics,-0.730000019,16
+13,42688,Under Armour Women's Ignite Slide,31.98999977,276,Electronics,0,1.279999971
+13,108786,Under Armour Women's Ignite Slide,31.98999977,276,Electronics,0.25,28.79000092
+12,56232,Under Armour Women's Micro G Skulpt Running S,54.97000122,249,Boxing & MMA,-0.730000019,1.100000024
+12,60332,Under Armour Women's Micro G Skulpt Running S,54.97000122,249,Boxing & MMA,0.310000002,27.48999977
+62,172786,Web Camera,452.0400085,1349,Cameras,0.349999994,113.0100021
+62,172941,Web Camera,452.0400085,1349,Cameras,0.050000001,24.86000061
+62,172956,Web Camera,452.0400085,1349,Cameras,0.479999989,45.20000076

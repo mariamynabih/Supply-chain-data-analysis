@@ -1,0 +1,521 @@
+Customer City,Customer Country,Custom Name,Customer Id,Customer Segment,Customer Loyalty
+Lawrence,EE. UU.,Megan  Smith,8,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Vincent,27,Consumer,Low Loyalty
+Caguas,Puerto Rico,Lori  Fuller,47,Home Office,Low Loyalty
+Atlanta,EE. UU.,Mary  Henry,88,Corporate,Low Loyalty
+Cincinnati,EE. UU.,Karen  Smith,122,Consumer,Low Loyalty
+Oxnard,EE. UU.,Mary  Gallagher,125,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Dawson,138,Consumer,Low Loyalty
+Caguas,Puerto Rico,Brittany  Juarez,155,Consumer,Low Loyalty
+Louisville,EE. UU.,Deborah  Smith,185,Consumer,Low Loyalty
+Hamilton,EE. UU.,Janet  Carter,241,Corporate,Low Loyalty
+Mililani,EE. UU.,Mary  Stein,242,Corporate,Low Loyalty
+Morristown,EE. UU.,Diana  Richards,289,Corporate,Low Loyalty
+Carlsbad,EE. UU.,Mary  Smith,341,Consumer,Low Loyalty
+Lakewood,EE. UU.,David  Smith,394,Consumer,Low Loyalty
+Cumberland,EE. UU.,Mary  Delgado,397,Consumer,Low Loyalty
+Caguas,Puerto Rico,Cynthia  Benjamin,437,Consumer,Low Loyalty
+Allentown,EE. UU.,Mary  Smith,442,Consumer,Low Loyalty
+Modesto,EE. UU.,James  Smith,467,Consumer,Low Loyalty
+Philadelphia,EE. UU.,Mary  Patton,474,Consumer,Low Loyalty
+Caguas,Puerto Rico,Kenneth  Brown,487,Consumer,Low Loyalty
+Portland,EE. UU.,William  Smith,489,Corporate,Low Loyalty
+Sugar Land,EE. UU.,Mark  Smith,532,Corporate,Low Loyalty
+Carlisle,EE. UU.,Michael  Mclaughlin,558,Consumer,Low Loyalty
+Meridian,EE. UU.,Mary  Frye,569,Consumer,Low Loyalty
+West New York,EE. UU.,Mary  Lara,581,Consumer,Low Loyalty
+Van Nuys,EE. UU.,Matthew  Huffman,629,Corporate,Low Loyalty
+Bend,EE. UU.,Cynthia  Smith,702,Corporate,Low Loyalty
+Caguas,Puerto Rico,Lawrence  Mclaughlin,724,Home Office,Low Loyalty
+Rowland Heights,EE. UU.,Rebecca  Smith,822,Corporate,Low Loyalty
+Dallas,EE. UU.,Mary  Friedman,1063,Consumer,Low Loyalty
+Littleton,EE. UU.,Mary  Hansen,1067,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,1086,Home Office,Low Loyalty
+Brooklyn,EE. UU.,Roger  Jensen,1144,Corporate,Low Loyalty
+Oxnard,EE. UU.,Mary  Smith,1169,Corporate,Low Loyalty
+Wyandotte,EE. UU.,Mary  Martin,1180,Corporate,Low Loyalty
+Miami,EE. UU.,Mary  Smith,1182,Corporate,Low Loyalty
+New Bedford,EE. UU.,Teresa  Smith,1250,Consumer,Low Loyalty
+Fullerton,EE. UU.,Victoria  Hancock,1261,Consumer,Low Loyalty
+Simi Valley,EE. UU.,Carolyn  Shea,1271,Corporate,Low Loyalty
+Caguas,Puerto Rico,Maria  Evans,1273,Consumer,Low Loyalty
+Caguas,Puerto Rico,Zachary  Taylor,1306,Consumer,Low Loyalty
+New Haven,EE. UU.,Gregory  Nelson,1325,Consumer,Low Loyalty
+Marrero,EE. UU.,Catherine  Smith,1383,Corporate,Low Loyalty
+Chicago,EE. UU.,Mary  Diaz,1408,Consumer,Low Loyalty
+Santa Ana,EE. UU.,Mary  Smith,1410,Consumer,Low Loyalty
+Caguas,Puerto Rico,Christina  Harvey,1425,Consumer,Low Loyalty
+Caguas,Puerto Rico,Pamela  Murphy,1429,Home Office,Low Loyalty
+San Diego,EE. UU.,Linda  Ortiz,1445,Consumer,Low Loyalty
+Freeport,EE. UU.,Patricia  Petersen,1509,Consumer,Low Loyalty
+Staten Island,EE. UU.,Adam  Smith,1555,Consumer,Low Loyalty
+Troy,EE. UU.,Mary  Smith,1595,Consumer,Low Loyalty
+Alhambra,EE. UU.,Mary  Smith,1622,Consumer,Low Loyalty
+Fort Washington,EE. UU.,Julie  Petersen,1636,Consumer,Low Loyalty
+Jackson,EE. UU.,Mary  Arnold,1664,Corporate,Low Loyalty
+Saint Paul,EE. UU.,Amanda  Marquez,1695,Corporate,Low Loyalty
+Bronx,EE. UU.,Larry  King,1758,Consumer,Low Loyalty
+Marion,EE. UU.,Mary  Huffman,1763,Corporate,Low Loyalty
+Englewood,EE. UU.,Mary  Avila,1801,Corporate,Low Loyalty
+Silver Spring,EE. UU.,Mary  Soto,1839,Corporate,Low Loyalty
+Detroit,EE. UU.,Mary  Romero,1865,Corporate,Low Loyalty
+Far Rockaway,EE. UU.,Mary  Riddle,1868,Corporate,Low Loyalty
+Miami,EE. UU.,Sarah  Smith,1880,Corporate,Low Loyalty
+Elyria,EE. UU.,Alice  Murphy,1902,Consumer,Low Loyalty
+Smyrna,EE. UU.,Mary  Smith,1975,Corporate,Low Loyalty
+Saint Paul,EE. UU.,Mary  Fletcher,2013,Corporate,Low Loyalty
+Caguas,Puerto Rico,Cynthia  Smith,2028,Consumer,Low Loyalty
+Saint Paul,EE. UU.,Paul  Garcia,2041,Consumer,Low Loyalty
+Greensboro,EE. UU.,Mary  Wolf,2048,Consumer,Low Loyalty
+Caguas,Puerto Rico,Ronald  Smith,2053,Consumer,Low Loyalty
+Woonsocket,EE. UU.,Doris  Smith,2091,Consumer,Low Loyalty
+Aurora,EE. UU.,Mary  Grimes,2106,Consumer,Low Loyalty
+Troy,EE. UU.,Nicholas  Smith,2170,Consumer,Low Loyalty
+Fort Worth,EE. UU.,Evelyn  Wilson,2200,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,2214,Consumer,Low Loyalty
+Caguas,Puerto Rico,Edward  West,2240,Home Office,Low Loyalty
+San Jose,EE. UU.,Mary  Smith,2256,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,2270,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Mcdonald,2291,Consumer,Low Loyalty
+San Benito,EE. UU.,Ashley  Smith,2292,Corporate,Low Loyalty
+Valrico,EE. UU.,Mary  Smith,2329,Corporate,Low Loyalty
+Katy,EE. UU.,Thomas  Whitney,2364,Consumer,Low Loyalty
+Santa Clara,EE. UU.,Kyle  Curtis,2454,Corporate,Low Loyalty
+Caguas,Puerto Rico,Kelly  Williams,2538,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,2546,Home Office,Low Loyalty
+Elgin,EE. UU.,Christian  Castillo,2550,Consumer,Low Loyalty
+Davis,EE. UU.,Virginia  Johnson,2610,Consumer,Low Loyalty
+Caguas,Puerto Rico,David  Smith,2643,Consumer,Low Loyalty
+Roseburg,EE. UU.,Cynthia  Miller,2682,Consumer,Low Loyalty
+Palmdale,EE. UU.,Mary  Smith,2719,Consumer,Low Loyalty
+Miami,EE. UU.,Mary  Adams,2728,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,2737,Consumer,Low Loyalty
+Long Beach,EE. UU.,Jason  Smith,2741,Corporate,Low Loyalty
+Bakersfield,EE. UU.,Lisa  Smith,2784,Consumer,Low Loyalty
+Houston,EE. UU.,Willie  Smith,2805,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,2813,Consumer,Low Loyalty
+Harvey,EE. UU.,Rachel  Choi,2817,Corporate,Low Loyalty
+Chicago,EE. UU.,Danielle  Smith,2823,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Myers,2918,Consumer,Low Loyalty
+Hampton,EE. UU.,Donald  Price,2985,Corporate,Low Loyalty
+Winnetka,EE. UU.,Bryan  Smith,3029,Corporate,Low Loyalty
+Hacienda Heights,EE. UU.,Sandra  Smith,3064,Consumer,Low Loyalty
+Baltimore,EE. UU.,Mary  Smith,3066,Consumer,Low Loyalty
+San Jose,EE. UU.,Mary  Meadows,3071,Consumer,Low Loyalty
+Massapequa,EE. UU.,Cynthia  Shannon,3141,Consumer,Low Loyalty
+Grand Prairie,EE. UU.,Mary  Smith,3153,Corporate,Low Loyalty
+Colorado Springs,EE. UU.,Karen  Boyle,3172,Corporate,Low Loyalty
+Caguas,Puerto Rico,Edward  Smith,3204,Consumer,Low Loyalty
+North Tonawanda,EE. UU.,Mary  Smith,3206,Consumer,Low Loyalty
+Lakewood,EE. UU.,Mary  Williams,3222,Consumer,Low Loyalty
+San Jose,EE. UU.,Lori  Burns,3246,Consumer,Low Loyalty
+Fremont,EE. UU.,Steven  Williams,3275,Corporate,Low Loyalty
+Martinsburg,EE. UU.,Charles  Ramos,3283,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,3296,Home Office,Low Loyalty
+Caguas,Puerto Rico,Joshua  Smith,3329,Consumer,Low Loyalty
+Martinez,EE. UU.,Mary  Ramos,3364,Consumer,Low Loyalty
+Princeton,EE. UU.,Virginia  Smith,3372,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Sanchez,3375,Consumer,Low Loyalty
+New Bedford,EE. UU.,Mary  Franco,3471,Consumer,Low Loyalty
+Bay Shore,EE. UU.,Rebecca  Hunter,3484,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Nicole  Brooks,3528,Consumer,Low Loyalty
+Encinitas,EE. UU.,Betty  Rodgers,3535,Consumer,Low Loyalty
+Pomona,EE. UU.,Mary  Smith,3594,Consumer,Low Loyalty
+Miami,EE. UU.,Margaret  Smith,3597,Consumer,Low Loyalty
+Lutz,EE. UU.,Grace  Shah,3624,Consumer,Low Loyalty
+Philadelphia,EE. UU.,Margaret  Meadows,3659,Consumer,Low Loyalty
+Germantown,EE. UU.,Shawn  Smith,3800,Consumer,Low Loyalty
+Bloomfield,EE. UU.,Mary  Sloan,3815,Corporate,Low Loyalty
+Chandler,EE. UU.,Rachel  Smith,3868,Consumer,Low Loyalty
+South San Francisco,EE. UU.,Denise  Smith,3905,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Stephanie  Smith,3942,Consumer,Low Loyalty
+Chandler,EE. UU.,Brian  Riddle,3961,Consumer,Low Loyalty
+Chillicothe,EE. UU.,Debra  Gates,3985,Corporate,Low Loyalty
+Guayama,Puerto Rico,Sandra  Smith,3990,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Margaret  Walker,3997,Corporate,Low Loyalty
+Quincy,EE. UU.,Virginia  Dyer,4005,Corporate,Low Loyalty
+Woodbridge,EE. UU.,Mary  Roman,4029,Corporate,Low Loyalty
+Oceanside,EE. UU.,Eugene  Smith,4062,Corporate,Low Loyalty
+Pekin,EE. UU.,Debra  Butler,4104,Consumer,Low Loyalty
+Hamilton,EE. UU.,Brandon  Smith,4140,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Lara,4209,Consumer,Low Loyalty
+Phoenix,EE. UU.,Matthew  Roach,4210,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Garza,4232,Home Office,Low Loyalty
+Caguas,Puerto Rico,Mary  Butler,4249,Consumer,Low Loyalty
+Arecibo,Puerto Rico,Mary  Mccoy,4280,Consumer,Low Loyalty
+Webster,EE. UU.,Edward  Sanchez,4296,Consumer,Low Loyalty
+Azusa,EE. UU.,Mary  Yoder,4398,Consumer,Low Loyalty
+Virginia Beach,EE. UU.,Richard  Smith,4399,Consumer,Low Loyalty
+Honolulu,EE. UU.,Heather  Smith,4402,Corporate,Low Loyalty
+Caguas,Puerto Rico,Frank  Jennings,4438,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Mary  Smith,4460,Consumer,Low Loyalty
+Amarillo,EE. UU.,Mary  Johnson,4464,Corporate,Low Loyalty
+Strongsville,EE. UU.,Rachel  Cochran,4510,Corporate,Low Loyalty
+Oceanside,EE. UU.,Walter  Chavez,4533,Consumer,Low Loyalty
+Houston,EE. UU.,Jacqueline  James,4539,Corporate,Low Loyalty
+Dallas,EE. UU.,Melissa  Powell,4563,Consumer,Low Loyalty
+Federal Way,EE. UU.,Mary  Burns,4596,Consumer,Low Loyalty
+Lansdale,EE. UU.,Mary  Wilson,4612,Consumer,Low Loyalty
+Lithonia,EE. UU.,Andrea  Smith,4618,Corporate,Low Loyalty
+Arlington Heights,EE. UU.,Eric  Lang,4627,Corporate,Low Loyalty
+Caguas,Puerto Rico,Wayne  Hodges,4673,Home Office,Low Loyalty
+Caguas,Puerto Rico,Hannah  Guerra,4695,Consumer,Low Loyalty
+Caguas,Puerto Rico,Kathryn  Singh,4697,Consumer,Low Loyalty
+Greeley,EE. UU.,Mary  Campbell,4700,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,4741,Home Office,Low Loyalty
+Brooklyn,EE. UU.,Mary  Stanley,4756,Corporate,Low Loyalty
+Caguas,Puerto Rico,Janet  Smith,4781,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Williams,4784,Consumer,Low Loyalty
+Mission Viejo,EE. UU.,Raymond  Rodgers,4807,Corporate,Low Loyalty
+Chicago,EE. UU.,Mary  Smith,4808,Corporate,Low Loyalty
+Chino,EE. UU.,Mary  Smith,4813,Corporate,Low Loyalty
+Caguas,Puerto Rico,John  Warner,4841,Consumer,Low Loyalty
+Pittsburg,EE. UU.,Rachel  Smith,4842,Consumer,Low Loyalty
+Watsonville,EE. UU.,Jennifer  Morgan,4848,Consumer,Low Loyalty
+Phoenix,EE. UU.,Mary  Smith,4909,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,4998,Consumer,Low Loyalty
+Caguas,Puerto Rico,William  Berg,5011,Consumer,Low Loyalty
+Canyon Country,EE. UU.,Andrew  Smith,5036,Consumer,Low Loyalty
+Caguas,Puerto Rico,Karen  Smith,5074,Consumer,Low Loyalty
+Oceanside,EE. UU.,Mary  Smith,5088,Corporate,Low Loyalty
+Caguas,Puerto Rico,James  Holloway,5089,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,5118,Consumer,Low Loyalty
+Caguas,Puerto Rico,Brenda  Jordan,5197,Home Office,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,5243,Consumer,Low Loyalty
+Tempe,EE. UU.,Emily  Smith,5246,Consumer,Low Loyalty
+Chicago,EE. UU.,Andrea  Johnson,5270,Corporate,Low Loyalty
+Caguas,Puerto Rico,Michael  Beard,5274,Consumer,Low Loyalty
+Bountiful,EE. UU.,Mary  Williams,5295,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Ward,5301,Consumer,Low Loyalty
+Long Beach,EE. UU.,Jack  Townsend,5329,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Moore,5339,Consumer,Low Loyalty
+Caguas,Puerto Rico,Thomas  Colon,5364,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Jeremy  Holmes,5375,Corporate,Low Loyalty
+Houston,EE. UU.,Christopher  Smith,5384,Corporate,Low Loyalty
+Marietta,EE. UU.,Mary  Roy,5418,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Carlson,5421,Consumer,Low Loyalty
+Fond Du Lac,EE. UU.,Mary  Sanchez,5474,Consumer,Low Loyalty
+Chicago,EE. UU.,Gloria  Larson,5582,Corporate,Low Loyalty
+Houston,EE. UU.,Sharon  Smith,5598,Corporate,Low Loyalty
+Ewa Beach,EE. UU.,Ethan  Cross,5674,Corporate,Low Loyalty
+Fort Lauderdale,EE. UU.,Mary  Chapman,5687,Consumer,Low Loyalty
+Hamilton,EE. UU.,Kathy  Sampson,5707,Consumer,Low Loyalty
+Caguas,Puerto Rico,Sarah  Montoya,5728,Home Office,Low Loyalty
+Houston,EE. UU.,Mary  Smith,5749,Consumer,Low Loyalty
+Los Angeles,EE. UU.,John  Smith,5767,Consumer,Low Loyalty
+Lutz,EE. UU.,Theresa  Pearson,5801,Corporate,Low Loyalty
+Hyattsville,EE. UU.,Jessica  Humphrey,5821,Corporate,Low Loyalty
+Fullerton,EE. UU.,Mary  Smith,5854,Consumer,Low Loyalty
+Chandler,EE. UU.,Dorothy  Smith,5920,Corporate,Low Loyalty
+Miami,EE. UU.,Mary  Shepherd,5929,Consumer,Low Loyalty
+Enfield,EE. UU.,Shirley  Moore,5939,Consumer,Low Loyalty
+Caguas,Puerto Rico,Richard  Parker,5965,Consumer,Low Loyalty
+Endicott,EE. UU.,Rebecca  Arnold,6050,Consumer,Low Loyalty
+New York,EE. UU.,Mary  Wu,6071,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Campos,6073,Consumer,Low Loyalty
+Bronx,EE. UU.,Mary  Hernandez,6156,Corporate,Low Loyalty
+North Richland Hills,EE. UU.,Mary  Smith,6180,Corporate,Low Loyalty
+Ithaca,EE. UU.,Mary  Smith,6220,Consumer,Low Loyalty
+Rome,EE. UU.,Melissa  Ramirez,6246,Consumer,Low Loyalty
+North Tonawanda,EE. UU.,Crystal  Rodriguez,6376,Corporate,Low Loyalty
+Jamaica,EE. UU.,Mary  Frazier,6402,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,6416,Home Office,Low Loyalty
+Ontario,EE. UU.,Jonathan  Richmond,6422,Corporate,Low Loyalty
+Caguas,Puerto Rico,Susan  Meyer,6466,Consumer,Low Loyalty
+Long Beach,EE. UU.,Mary  Castillo,6473,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Anna  Bailey,6506,Consumer,Low Loyalty
+Hamilton,EE. UU.,Philip  Smith,6508,Corporate,Low Loyalty
+Caguas,Puerto Rico,Alexander  Smith,6543,Consumer,Low Loyalty
+Norfolk,EE. UU.,Grace  Smith,6707,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Taylor,6738,Consumer,Low Loyalty
+Caguas,Puerto Rico,Anthony  Sanchez,6746,Home Office,Low Loyalty
+Santa Ana,EE. UU.,John  Chung,6758,Consumer,Low Loyalty
+Los Angeles,EE. UU.,William  Salas,6763,Corporate,Low Loyalty
+Philadelphia,EE. UU.,Louis  Callahan,6855,Corporate,Low Loyalty
+Newark,EE. UU.,Mary  Mcdowell,6875,Corporate,Low Loyalty
+Columbus,EE. UU.,Mary  Howard,6897,Corporate,Low Loyalty
+Joliet,EE. UU.,Mary  Anderson,6956,Corporate,Low Loyalty
+Costa Mesa,EE. UU.,James  Mitchell,6961,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mark  Harris,7112,Home Office,Low Loyalty
+Sacramento,EE. UU.,Mary  Jackson,7141,Corporate,Low Loyalty
+Newburgh,EE. UU.,Mary  Smith,7229,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,7247,Consumer,Low Loyalty
+Murfreesboro,EE. UU.,Jerry  Ingram,7259,Corporate,Low Loyalty
+Jersey City,EE. UU.,Benjamin  Hurst,7272,Consumer,Low Loyalty
+Palatine,EE. UU.,Brandon  Foster,7307,Corporate,Low Loyalty
+Orlando,EE. UU.,Tammy  Hood,7327,Consumer,Low Loyalty
+Lombard,EE. UU.,Pamela  Strong,7331,Consumer,Low Loyalty
+Caguas,Puerto Rico,Diane  Kim,7407,Consumer,Low Loyalty
+Caguas,Puerto Rico,Lisa  Williams,7446,Consumer,Low Loyalty
+West Covina,EE. UU.,Andrew  Kim,7454,Corporate,Low Loyalty
+Bell Gardens,EE. UU.,Mary  Ramirez,7464,Consumer,Low Loyalty
+Sylmar,EE. UU.,Mary  Smith,7534,Corporate,Low Loyalty
+San Antonio,EE. UU.,Stephen  Lee,7537,Consumer,Low Loyalty
+La Mirada,EE. UU.,Christina  Sanchez,7586,Consumer,Low Loyalty
+Caguas,Puerto Rico,Kevin  Smith,7603,Home Office,Low Loyalty
+Newburgh,EE. UU.,Cynthia  Wallace,7683,Consumer,Low Loyalty
+Caguas,Puerto Rico,James  Lawson,7701,Consumer,Low Loyalty
+Indianapolis,EE. UU.,Mary  Wilson,7764,Consumer,Low Loyalty
+Honolulu,EE. UU.,Sandra  Smith,7795,Corporate,Low Loyalty
+Memphis,EE. UU.,Henry  Smith,7810,Consumer,Low Loyalty
+Mayaguez,Puerto Rico,Scott  Smith,7844,Consumer,Low Loyalty
+Greenville,EE. UU.,Peter  Smith,7884,Corporate,Low Loyalty
+Loveland,EE. UU.,Mary  Keller,7887,Corporate,Low Loyalty
+Brownsville,EE. UU.,Cynthia  Garcia,7905,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Mary  Arnold,7924,Consumer,Low Loyalty
+Glen Burnie,EE. UU.,Mary  Mcdaniel,7931,Corporate,Low Loyalty
+New York,EE. UU.,Mary  Fisher,7963,Corporate,Low Loyalty
+Philadelphia,EE. UU.,Samuel  Jones,7967,Consumer,Low Loyalty
+Caguas,Puerto Rico,Margaret  Martinez,8002,Consumer,Low Loyalty
+Fort Worth,EE. UU.,Elizabeth  Smith,8050,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Margaret  Smith,8065,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Maddox,8348,Consumer,Low Loyalty
+San Diego,EE. UU.,Mary  Smith,8358,Corporate,Low Loyalty
+Caguas,Puerto Rico,Amber  Smith,8397,Consumer,Low Loyalty
+Humacao,Puerto Rico,Debra  Smith,8517,Consumer,Low Loyalty
+Granite City,EE. UU.,Pamela  Michael,8519,Consumer,Low Loyalty
+Caguas,Puerto Rico,Ruth  Farrell,8524,Consumer,Low Loyalty
+San Antonio,EE. UU.,Mary  Rose,8534,Consumer,Low Loyalty
+Philadelphia,EE. UU.,Mary  Smith,8552,Corporate,Low Loyalty
+Hanover,EE. UU.,Emma  Smith,8612,Corporate,Low Loyalty
+Longmont,EE. UU.,Cynthia  Smith,8681,Corporate,Low Loyalty
+Washington,EE. UU.,Mary  Pope,8696,Corporate,Low Loyalty
+Troy,EE. UU.,Linda  Green,8701,Consumer,Low Loyalty
+Strongsville,EE. UU.,Mary  Alvarado,8720,Corporate,Low Loyalty
+Hayward,EE. UU.,Mary  Smith,8730,Corporate,Low Loyalty
+Vista,EE. UU.,Gregory  Smith,8741,Consumer,Low Loyalty
+Cleveland,EE. UU.,Charles  Stout,8746,Corporate,Low Loyalty
+Hayward,EE. UU.,Mary  Smith,8792,Consumer,Low Loyalty
+Virginia Beach,EE. UU.,Amber  Diaz,8806,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Crystal  Smith,8850,Corporate,Low Loyalty
+San Jose,EE. UU.,Cynthia  Brown,8899,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,8917,Consumer,Low Loyalty
+Opa Locka,EE. UU.,Mary  Erickson,8925,Corporate,Low Loyalty
+Elyria,EE. UU.,Mary  Rivera,8977,Corporate,Low Loyalty
+Caguas,Puerto Rico,Maria  Summers,8992,Consumer,Low Loyalty
+Mechanicsburg,EE. UU.,Mary  Smith,8995,Corporate,Low Loyalty
+Canoga Park,EE. UU.,Mary  Smith,9001,Corporate,Low Loyalty
+New York,EE. UU.,Mary  Mullins,9002,Corporate,Low Loyalty
+Cleveland,EE. UU.,Jonathan  Schmidt,9023,Corporate,Low Loyalty
+La Crosse,EE. UU.,Mary  Smith,9119,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Gary  Smith,9145,Corporate,Low Loyalty
+Caguas,Puerto Rico,Robert  Gallagher,9148,Consumer,Low Loyalty
+Billings,EE. UU.,Mary  Russell,9163,Corporate,Low Loyalty
+Chino Hills,EE. UU.,John  Smith,9172,Consumer,Low Loyalty
+Corona,EE. UU.,Tyler  Smith,9174,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Harris,9204,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Luna,9248,Consumer,Low Loyalty
+Aurora,EE. UU.,Mary  Branch,9345,Corporate,Low Loyalty
+Caguas,Puerto Rico,Michael  Scott,9353,Home Office,Low Loyalty
+Phoenix,EE. UU.,Nancy  Johnson,9356,Corporate,Low Loyalty
+Washington,EE. UU.,Andrew  Whitehead,9385,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Joyce,9415,Home Office,Low Loyalty
+Brooklyn,EE. UU.,Mary  Smith,9419,Consumer,Low Loyalty
+Caguas,Puerto Rico,George  Terrell,9429,Consumer,Low Loyalty
+Memphis,EE. UU.,Mary  Smith,9466,Consumer,Low Loyalty
+Caguas,Puerto Rico,Nicholas  Smith,9495,Consumer,Low Loyalty
+Caguas,Puerto Rico,Patricia  Smith,9501,Consumer,Low Loyalty
+Simi Valley,EE. UU.,Mary  Mendoza,9507,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Nelson,9524,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Flores,9528,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Hayes,9554,Consumer,Low Loyalty
+San Jose,EE. UU.,Pamela  Murphy,9563,Corporate,Low Loyalty
+Caguas,Puerto Rico,Lori  Perez,9597,Home Office,Low Loyalty
+El Paso,EE. UU.,Dorothy  Frye,9626,Corporate,Low Loyalty
+Bridgeton,EE. UU.,Mary  Weaver,9634,Corporate,Low Loyalty
+Lompoc,EE. UU.,Jennifer  Smith,9671,Consumer,Low Loyalty
+Vega Baja,Puerto Rico,Stephen  Williams,9697,Consumer,Low Loyalty
+Caguas,Puerto Rico,Katherine  Tyler,9702,Home Office,Low Loyalty
+Simi Valley,EE. UU.,Mary  Stevenson,9769,Corporate,Low Loyalty
+Caguas,Puerto Rico,Mary  Brady,9803,Consumer,Low Loyalty
+Aurora,EE. UU.,Mary  Roth,9813,Consumer,Low Loyalty
+New Bedford,EE. UU.,Deborah  Smith,9821,Consumer,Low Loyalty
+Tempe,EE. UU.,Christian  Luna,9890,Consumer,Low Loyalty
+Chicago,EE. UU.,Richard  Smith,9906,Consumer,Low Loyalty
+Mcallen,EE. UU.,Mary  Wilson,10026,Corporate,Low Loyalty
+Carrollton,EE. UU.,Mary  Silva,10029,Consumer,Low Loyalty
+Staten Island,EE. UU.,Crystal  Blake,10031,Consumer,Low Loyalty
+San Diego,EE. UU.,Mary  Castillo,10081,Corporate,Low Loyalty
+Caguas,Puerto Rico,Michael  Lopez,10093,Consumer,Low Loyalty
+San Diego,EE. UU.,Mary  Lee,10126,Corporate,Low Loyalty
+Philadelphia,EE. UU.,Mary  Kidd,10129,Consumer,Low Loyalty
+Glendale,EE. UU.,Helen  Moody,10132,Consumer,Low Loyalty
+Caguas,Puerto Rico,Nicole  Smith,10200,Consumer,Low Loyalty
+New Orleans,EE. UU.,Debra  Campbell,10201,Corporate,Low Loyalty
+Cypress,EE. UU.,Nicholas  Smith,10219,Corporate,Low Loyalty
+North Las Vegas,EE. UU.,Betty  Lawson,10224,Consumer,Low Loyalty
+Oviedo,EE. UU.,Mark  Smith,10288,Consumer,Low Loyalty
+Aurora,EE. UU.,Ann  Smith,10291,Corporate,Low Loyalty
+Juana Diaz,Puerto Rico,Mary  Smith,10344,Consumer,Low Loyalty
+Eugene,EE. UU.,Mary  Brooks,10534,Consumer,Low Loyalty
+Baltimore,EE. UU.,Mary  Atkinson,10549,Consumer,Low Loyalty
+Kailua,EE. UU.,Christine  Smith,10558,Corporate,Low Loyalty
+New York,EE. UU.,Jennifer  Fuentes,10577,Consumer,Low Loyalty
+Union City,EE. UU.,James  Smith,10614,Consumer,Low Loyalty
+Chicago,EE. UU.,Amy  Johnson,10647,Consumer,Low Loyalty
+Newark,EE. UU.,Barbara  Beck,10659,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,10668,Consumer,Low Loyalty
+Long Beach,EE. UU.,Timothy  Moses,10671,Corporate,Low Loyalty
+Amarillo,EE. UU.,Martha  Prince,10678,Corporate,Low Loyalty
+Jacksonville,EE. UU.,Mary  Lee,10699,Consumer,Low Loyalty
+Salina,EE. UU.,Stephen  Smith,10790,Corporate,Low Loyalty
+Caguas,Puerto Rico,Joshua  Carter,10811,Consumer,Low Loyalty
+Ventura,EE. UU.,Janice  Smith,10827,Consumer,Low Loyalty
+San Diego,EE. UU.,Larry  Smith,10831,Consumer,Low Loyalty
+Albuquerque,EE. UU.,Susan  Sullivan,10834,Corporate,Low Loyalty
+Ventura,EE. UU.,Mary  Johnson,10860,Corporate,Low Loyalty
+Brooklyn,EE. UU.,Jason  Beck,10864,Corporate,Low Loyalty
+Sacramento,EE. UU.,Zachary  Smith,10884,Corporate,Low Loyalty
+Pittsfield,EE. UU.,Mary  Smith,10891,Corporate,Low Loyalty
+Plymouth,EE. UU.,Martha  Pierce,10966,Corporate,Low Loyalty
+Fond Du Lac,EE. UU.,Mary  Smith,11012,Corporate,Low Loyalty
+Ewa Beach,EE. UU.,Bruce  Smith,11018,Consumer,Low Loyalty
+New York,EE. UU.,Aaron  Smith,11065,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Navarro,11106,Consumer,Low Loyalty
+Caguas,Puerto Rico,Roy  Smith,11149,Consumer,Low Loyalty
+Kenner,EE. UU.,Diane  Smith,11229,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Ward,11273,Consumer,Low Loyalty
+Porterville,EE. UU.,Mary  Garcia,11286,Corporate,Low Loyalty
+Caguas,Puerto Rico,Catherine  Smith,11290,Consumer,Low Loyalty
+Caguas,Puerto Rico,Kenneth  Williams,11310,Consumer,Low Loyalty
+Caguas,Puerto Rico,Hannah  Smith,11329,Home Office,Low Loyalty
+Caguas,Puerto Rico,Mary  King,11339,Home Office,Low Loyalty
+Bakersfield,EE. UU.,Mary  Clark,11372,Corporate,Low Loyalty
+Lancaster,EE. UU.,Mary  Rangel,11388,Consumer,Low Loyalty
+Sacramento,EE. UU.,Willie  Sanders,11431,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Pugh,11438,Consumer,Low Loyalty
+Encinitas,EE. UU.,Ryan  Smith,11510,Consumer,Low Loyalty
+Portland,EE. UU.,Mary  Smith,11592,Consumer,Low Loyalty
+Caguas,Puerto Rico,Mary  Smith,11664,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Mary  Smith,11675,Corporate,Low Loyalty
+San Jose,EE. UU.,Mary  Smith,11715,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Mary  Smith,11720,Consumer,Low Loyalty
+Opa Locka,EE. UU.,Richard  Reid,11753,Corporate,Low Loyalty
+Caguas,Puerto Rico,Lauren  Coleman,11761,Consumer,Low Loyalty
+Caguas,Puerto Rico,Thomas  Riley,11793,Consumer,Low Loyalty
+Caguas,Puerto Rico,Christopher  Smith,11887,Consumer,Low Loyalty
+Lodi,EE. UU.,Diana  Hernandez,11892,Corporate,Low Loyalty
+Hyattsville,EE. UU.,Donald  Taylor,11922,Corporate,Low Loyalty
+Westminster,EE. UU.,Mary  Ramos,11924,Corporate,Low Loyalty
+Detroit,EE. UU.,Mary  Gilbert,11930,Corporate,Low Loyalty
+Madison,EE. UU.,Brandon  Smith,11979,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Mary  Walters,12019,Consumer,Low Loyalty
+Caguas,Puerto Rico,Aaron  Villa,12033,Consumer,Low Loyalty
+Fort Lauderdale,EE. UU.,Patricia  Smith,12038,Corporate,Low Loyalty
+Brooklyn,EE. UU.,Mary  Smith,12094,Corporate,Low Loyalty
+Chicago,EE. UU.,Richard  Bolton,12100,Corporate,Low Loyalty
+Caguas,Puerto Rico,Barbara  Pham,12119,Consumer,Low Loyalty
+Tallahassee,EE. UU.,Jennifer  Summers,12214,Consumer,Low Loyalty
+Visalia,EE. UU.,Ann  Deleon,12216,Consumer,Low Loyalty
+Caguas,Puerto Rico,Betty  Sanchez,12221,Home Office,Low Loyalty
+Carlisle,EE. UU.,Mary  Chan,12253,Consumer,Low Loyalty
+Ontario,EE. UU.,Mary  Davis,12255,Consumer,Low Loyalty
+Algonquin,EE. UU.,Karen  Smith,12288,Consumer,Low Loyalty
+Caguas,Puerto Rico,Jennifer  Sims,12291,Consumer,Low Loyalty
+Chicago,EE. UU.,Henry  Jacobs,12350,Consumer,Low Loyalty
+Caguas,Puerto Rico,Giselle  Farrell,13024,Consumer,Low Loyalty
+Caguas,Puerto Rico,Ila  Knight,13179,Consumer,Low Loyalty
+Caguas,Puerto Rico,Riley  Jones,13194,Consumer,Low Loyalty
+Caguas,Puerto Rico,Demetria  Jarvis,14604,Consumer,Low Loyalty
+Caguas,Puerto Rico,Jaime  Todd,14824,Consumer,Low Loyalty
+North Las Vegas,EE. UU.,Cora  Cotton,15995,Corporate,Low Loyalty
+Fort Lauderdale,EE. UU.,Martina  Bridges,16011,Corporate,Low Loyalty
+Pompano Beach,EE. UU.,Aimee  Terrell,16086,Corporate,Low Loyalty
+Gilroy,EE. UU.,Quyn  Mckinney,16774,Consumer,Low Loyalty
+Houston,EE. UU.,Freya  Golden,17446,Corporate,Low Loyalty
+Newburgh,EE. UU.,Tatyana  Vasquez,17459,Corporate,Low Loyalty
+Milpitas,EE. UU.,Roanna  Combs,17746,Corporate,Low Loyalty
+Chicago,EE. UU.,Delilah  Church,18004,Corporate,Low Loyalty
+San Jose,EE. UU.,Cheryl  Koch,18276,Corporate,Low Loyalty
+New York,EE. UU.,Rana  Moreno,18349,Corporate,Low Loyalty
+Middletown,EE. UU.,Raya  Lee,19282,Corporate,Low Loyalty
+South Richmond Hill,EE. UU.,Jane  Burt,19284,Corporate,Low Loyalty
+Caguas,Puerto Rico,Olympia  Terry,19285,Consumer,Low Loyalty
+Caguas,Puerto Rico,Dacey  Thompson,19289,Corporate,Low Loyalty
+Stafford,EE. UU.,Lilah  Haley,19290,Corporate,Low Loyalty
+Canton,EE. UU.,Fatima  Fowler,19291,Corporate,Low Loyalty
+Chicago,EE. UU.,Felicia  Patterson,19294,Consumer,Low Loyalty
+Anaheim,EE. UU.,Nayda  Nichols,19295,Consumer,Low Loyalty
+Miami,EE. UU.,Shannon  Potter,19296,Consumer,Low Loyalty
+Tustin,EE. UU.,Heather  Fisher,19299,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Kelly  Santana,19302,Consumer,Low Loyalty
+Caguas,Puerto Rico,Cora  Bates,19304,Home Office,Low Loyalty
+Waipahu,EE. UU.,Jacqueline  Hancock,19305,Consumer,Low Loyalty
+Caguas,Puerto Rico,Petra  Roberts,19309,Consumer,Low Loyalty
+Arecibo,Puerto Rico,Debra  Burgess,19310,Consumer,Low Loyalty
+Simi Valley,EE. UU.,Ina  Gilbert,19314,Consumer,Low Loyalty
+New York,EE. UU.,Kelsie  Browning,19319,Consumer,Low Loyalty
+Caguas,Puerto Rico,Ila  Massey,19320,Consumer,Low Loyalty
+Corona,EE. UU.,Daria  Whitehead,19321,Consumer,Low Loyalty
+Brownsville,EE. UU.,Mercedes  Gonzalez,19324,Consumer,Low Loyalty
+Honolulu,EE. UU.,Constance  Dawson,19333,Consumer,Low Loyalty
+Caguas,Puerto Rico,Moana  Shepherd,19334,Consumer,Low Loyalty
+Gardena,EE. UU.,Orli  Christian,19335,Corporate,Low Loyalty
+Norfolk,EE. UU.,Demetria  Huff,19336,Corporate,Low Loyalty
+Enfield,EE. UU.,Audrey  Witt,19344,Consumer,Low Loyalty
+Caguas,Puerto Rico,Blythe  Cantu,19345,Consumer,Low Loyalty
+Indianapolis,EE. UU.,Mechelle  Hale,19346,Corporate,Low Loyalty
+Tampa,EE. UU.,Hope  Diaz,19349,Home Office,Low Loyalty
+Caguas,Puerto Rico,Heather  Rocha,19350,Consumer,Low Loyalty
+Honolulu,EE. UU.,Alyssa  Fowler,19351,Home Office,Low Loyalty
+Caguas,Puerto Rico,Geraldine  Barlow,19355,Corporate,Low Loyalty
+Astoria,EE. UU.,Rhonda  Bruce,19369,Corporate,Low Loyalty
+Caguas,Puerto Rico,Xerxes  Marsh,19370,Corporate,Low Loyalty
+Hempstead,EE. UU.,Clare  Jenkins,19371,Home Office,Low Loyalty
+Caguas,Puerto Rico,Hedy  Dunn,19374,Consumer,Low Loyalty
+Granada Hills,EE. UU.,Lara  Kim,19375,Consumer,Low Loyalty
+Caguas,Puerto Rico,Hermione  Rose,19376,Corporate,Low Loyalty
+Salt Lake City,EE. UU.,Emma  Suarez,19379,Home Office,Low Loyalty
+Caguas,Puerto Rico,Sopoline  Hood,19380,Consumer,Low Loyalty
+Antioch,EE. UU.,Summer  Hester,19381,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Breanna  Morrison,19389,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Tamara  Larson,19394,Home Office,Low Loyalty
+Mission Viejo,EE. UU.,Nell  Garrison,19395,Home Office,Low Loyalty
+Cupertino,EE. UU.,Chloe  Nichols,19399,Home Office,Low Loyalty
+Los Angeles,EE. UU.,Medge  Mcfarland,19400,Corporate,Low Loyalty
+Caguas,Puerto Rico,Tana  Franklin,19404,Consumer,Low Loyalty
+Cleveland,EE. UU.,Lilah  Holmes,19405,Corporate,Low Loyalty
+Detroit,EE. UU.,Odessa  Cherry,19409,Corporate,Low Loyalty
+Caguas,Puerto Rico,Cherokee  Huffman,19410,Corporate,Low Loyalty
+Caguas,Puerto Rico,Iola  King,19412,Corporate,Low Loyalty
+Denver,EE. UU.,Hadley  Russell,19414,Corporate,Low Loyalty
+Caguas,Puerto Rico,Yoshi  Shelton,19415,Consumer,Low Loyalty
+Brooklyn,EE. UU.,Madeline  Wooten,19416,Home Office,Low Loyalty
+Holland,EE. UU.,Beverly  Fisher,19418,Consumer,Low Loyalty
+Caguas,Puerto Rico,Chloe  Pickett,19419,Home Office,Low Loyalty
+Marietta,EE. UU.,Danielle  Rush,19420,Home Office,Low Loyalty
+Caguas,Puerto Rico,Fallon  Donovan,19425,Consumer,Low Loyalty
+Bronx,EE. UU.,Dakota  Green,19426,Consumer,Low Loyalty
+Virginia Beach,EE. UU.,Lana  Green,19429,Consumer,Low Loyalty
+Caguas,Puerto Rico,Naida  Small,19430,Corporate,Low Loyalty
+Lilburn,EE. UU.,Maryam  Grant,19431,Corporate,Low Loyalty
+Caguas,Puerto Rico,Emma  Mayo,19434,Corporate,Low Loyalty
+Gaithersburg,EE. UU.,Hyacinth  Nolan,19435,Consumer,Low Loyalty
+Garden Grove,EE. UU.,Mara  Mcneil,19439,Corporate,Low Loyalty
+Caguas,Puerto Rico,Jennifer  Holmes,19440,Corporate,Low Loyalty
+Brighton,EE. UU.,Yetta  Robinson,19441,Corporate,Low Loyalty
+Sunnyvale,EE. UU.,Wanda  Sanford,19444,Corporate,Low Loyalty
+Caguas,Puerto Rico,Felicia  Clark,19445,Corporate,Low Loyalty
+Dallas,EE. UU.,Taylor  Wood,19446,Corporate,Low Loyalty
+Fremont,EE. UU.,Kay  Sandoval,19449,Consumer,Low Loyalty
+Caguas,Puerto Rico,Sybill  Spencer,19450,Home Office,Low Loyalty
+Atlanta,EE. UU.,Adele  Pennington,19451,Home Office,Low Loyalty
+Newark,EE. UU.,Karina  Prince,19454,Consumer,Low Loyalty
+Caguas,Puerto Rico,Basia  Watts,19461,Consumer,Low Loyalty
+Bellflower,EE. UU.,Jael  Mcfarland,19464,Consumer,Low Loyalty
+Roseville,EE. UU.,Evelyn  Kelly,19465,Corporate,Low Loyalty
+Caguas,Puerto Rico,Hannah  Velez,19466,Corporate,Low Loyalty
+Billings,EE. UU.,Simone  Vance,19469,Corporate,Low Loyalty
+Caguas,Puerto Rico,Lucy  Mcknight,19470,Corporate,Low Loyalty
+Long Beach,EE. UU.,Kellie  Farmer,19473,Corporate,Low Loyalty
+Mount Prospect,EE. UU.,Kim  Simon,19474,Consumer,Low Loyalty
+Caguas,Puerto Rico,Germane  Short,19483,Corporate,Low Loyalty
+Tonawanda,EE. UU.,Kimberly  Flowers,19488,Consumer,Low Loyalty
+Caguas,Puerto Rico,Orli  Hendricks,19489,Corporate,Low Loyalty
+Los Angeles,EE. UU.,Tana  Tate,19490,Home Office,Low Loyalty
+San Jose,EE. UU.,Gillian  Maldonado,19491,Consumer,Low Loyalty
+Los Angeles,EE. UU.,Wynter  Justice,20400,Corporate,Low Loyalty
+Garden Grove,EE. UU.,Lynn  Sweeney,20529,Corporate,Low Loyalty
+Fairfield,EE. UU.,Mara  Roman,20545,Corporate,Low Loyalty
+Mentor,EE. UU.,Whitney  Collins,20655,Corporate,Low Loyalty
+Caguas,Puerto Rico,Cally  Holloway,20755,Consumer,Low Loyalty

@@ -1,0 +1,519 @@
+Type,Benefit per order,Sales per customer,Order City,Order Country,Order Customer Id,order date (DateOrders),Order Id,Order Item Cardprod Id,product id,Item Profit Ratio,Order Item Quantity,Sales,Order Item Total,Order Profit Per Order,Order Region,Order Status
+debit,24.53,52.19,Probolinggo,Indonesia,8,11/22/2015,22297,365,55831,0.47,1,59.99000168,52.19,24.53,southeast asia,complete
+transfer,74.36,220,Ayacucho,Perú,27,2/9/2017,52772,502,131932,0.34,5,250,220,74.36,south america,suspected fraud
+payment,-215.48,293.97,Oakland,Estados Unidos,47,5/20/2016,34631,191,86490,-0.73,3,299.9700012,293.97,-215.48,west of usa,pending payment
+debit,40.22,118.29,Port Macquarie,Australia,88,3/3/2016,29283,403,73253,0.34,1,129.9900055,118.29,40.22,oceania,complete
+transfer,-284.53,167.37,Peoria,Estados Unidos,122,5/5/2016,33607,365,83892,-1.7,3,179.9700012,167.37,-284.53,west of usa,suspected fraud
+transfer,186.22,387.96,Dar es Salaam,Tanzania,125,8/30/2016,41590,191,103813,0.48,4,399.9599915,387.96,186.22,east africa,suspected fraud
+transfer,-140,200,Holguín,Cuba,138,4/20/2017,57598,502,144075,-0.7,5,250,200,-140,caribbean,pending
+transfer,33.59,167.96,Limeira,Brasil,155,5/14/2017,59226,627,148243,0.2,5,199.9499969,167.96,33.59,south america,processing
+debit,64.17,205,Nairobi,Kenia,185,11/26/2016,47647,502,119125,0.31,5,250,205,64.17,east africa,complete
+debit,-73.7,110.49,Sydney,Australia,241,12/9/2015,23456,403,58688,-0.67,1,129.9900055,110.49,-73.7,oceania,complete
+transfer,65.51,167.98,Tegucigalpa,Honduras,242,1/30/2015,1991,191,4973,0.39,2,199.9799957,167.98,65.51,central america,suspected fraud
+transfer,20.48,232.76,London,Reino Unido,341,6/25/2017,62086,365,155234,0.09,4,239.9600067,232.76,20.48,northern europe,pending
+transfer,85.56,186,Genk,Bélgica,394,8/13/2017,65439,502,163539,0.46,4,200,186,85.56,western europe,canceled
+debit,53.98,119.96,Casablanca,Marruecos,397,9/1/2016,41786,977,104311,0.45,5,149.9499969,119.96,53.98,north africa,complete
+transfer,127.48,254.96,Guantánamo,Cuba,437,4/1/2017,56244,365,140672,0.5,5,299.9500122,254.96,127.48,caribbean,suspected fraud
+debit,114.79,409.96,Madrid,España,442,7/24/2017,64066,191,160184,0.28,5,499.9500122,409.96,114.79,southern europe,complete
+transfer,41.06,131.17,Helsinki,Finlandia,467,9/4/2017,66958,627,167369,0.31,4,159.9600067,131.17,41.06,northern europe,canceled
+transfer,3.04,79.97,Gagnoa,Costa de Marfil,474,9/3/2016,41901,905,104591,0.04,4,99.95999908,79.97,3.04,west africa,canceled
+debit,-11.07,128.69,Turku,Finlandia,487,6/8/2015,10831,403,27107,-0.09,1,129.9900055,128.69,-11.07,northern europe,complete
+debit,19.84,56.69,Perth,Australia,489,3/15/2016,30097,365,75233,0.35,1,59.99000168,56.69,19.84,oceania,complete
+transfer,54.42,113.38,Durg,India,532,11/13/2015,21691,365,54260,0.48,2,119.9800034,113.38,54.42,south asia,pending
+debit,86.99,299.95,Florence,Italia,558,6/16/2015,11391,365,28483,0.29,5,299.9500122,299.95,86.99,southern europe,complete
+transfer,111.35,383.96,Cagliari,Italia,569,7/21/2017,63907,191,159751,0.29,4,399.9599915,383.96,111.35,southern europe,pending
+debit,106.54,287.95,Torrevieja,España,581,7/17/2017,63576,365,158916,0.37,5,299.9500122,287.95,106.54,southern europe,complete
+transfer,19.13,85,Huehuetenango,Guatemala,629,5/22/2015,9681,502,24177,0.23,2,100,85,19.13,central america,processing
+debit,4.57,123.49,Kanpur,India,702,2/14/2016,28036,403,70143,0.04,1,129.9900055,123.49,4.57,south asia,complete
+payment,-146.6,200,Bobigny,Francia,724,6/24/2015,11936,502,29833,-0.73,4,200,200,-146.6,western europe,pending payment
+debit,9.5,110.49,Rasht,Irán,822,1/6/2017,50466,403,126101,0.09,1,129.9900055,110.49,9.5,south asia,complete
+debit,-44.99,299.95,Madrid,España,1063,9/11/2015,17386,365,43448,-0.15,5,299.9500122,299.95,-44.99,southern europe,complete
+transfer,-7.76,77.58,Zhuhai,China,1067,2/8/2016,27647,627,69211,-0.1,2,79.98000336,77.58,-7.76,eastern asia,processing
+payment,-148.8,186,Tamworth,Reino Unido,1086,7/20/2015,13736,502,34400,-0.8,4,200,186,-148.8,northern europe,pending payment
+transfer,31.5,84,Jambi,Indonesia,1144,3/11/2016,29862,502,74708,0.38,2,100,84,31.5,southeast asia,pending
+debit,26.06,123.49,Newcastle,Australia,1169,12/31/2015,24992,403,62621,0.21,1,129.9900055,123.49,26.06,oceania,complete
+transfer,89.29,189.98,Registro,Brasil,1180,5/28/2015,10116,191,25275,0.47,2,199.9799957,189.98,89.29,south america,suspected fraud
+debit,32.48,123.49,Porirua,Nueva Zelanda,1182,3/26/2016,30851,403,77102,0.26,1,129.9900055,123.49,32.48,oceania,complete
+transfer,86.24,176,Ad Diwem,Sudán,1250,10/10/2016,44452,502,110981,0.49,4,200,176,86.24,north africa,suspected fraud
+debit,83.15,296.95,Annecy,Francia,1261,6/16/2015,11378,365,28449,0.28,5,299.9500122,296.95,83.15,western europe,complete
+debit,31.79,120.89,Melbourne,Australia,1271,3/16/2016,30172,403,75410,0.26,1,129.9900055,120.89,31.79,oceania,complete
+transfer,74.09,284.95,Buenos Aires,Argentina,1273,4/30/2015,8221,44,20537,0.26,5,299.9500122,284.95,74.09,south america,processing
+transfer,95.02,197.95,Newcastle,Australia,1306,2/23/2016,28657,627,71724,0.48,5,199.9499969,197.95,95.02,oceania,pending
+debit,65.83,137.15,Fuenlabrada,España,1325,8/14/2015,15462,273,38639,0.48,5,139.9499969,137.15,65.83,southern europe,complete
+transfer,43.5,149.99,Wuhan,China,1383,12/16/2015,23967,191,59998,0.29,2,199.9799957,149.99,43.5,eastern asia,processing
+debit,106.99,260.96,Le Bouscat,Francia,1408,6/18/2017,61596,365,154018,0.41,5,299.9500122,260.96,106.99,western europe,complete
+transfer,-248,160,Bur Sudan,Sudán,1410,9/14/2016,42626,502,106390,-1.55,4,200,160,-248,north africa,pending
+transfer,66.89,136.5,Camagüey,Cuba,1425,1/31/2017,52166,642,130341,0.49,5,150,136.5,66.89,caribbean,pending
+payment,42.99,122.84,Cape Town,SudAfrica,1429,10/15/2016,44771,835,111824,0.35,4,127.9599991,122.84,42.99,southern africa,pending payment
+debit,96.37,283.45,Barcelona,España,1445,8/28/2015,16378,365,40891,0.34,5,299.9500122,283.45,96.37,southern europe,complete
+transfer,28.85,128.22,Houston,Estados Unidos,1509,5/8/2016,33824,278,84424,0.23,3,134.9700012,128.22,28.85,us center,suspected fraud
+debit,72.6,200,Nkongsamba,Camerún,1555,10/20/2016,45138,502,112738,0.36,5,250,200,72.6,central africa,complete
+debit,179.98,374.96,Leicester,Reino Unido,1595,9/9/2015,17211,191,43053,0.48,5,499.9500122,374.96,179.98,northern europe,complete
+debit,84.14,494.95,Vannes,Francia,1622,8/10/2015,15202,191,38024,0.17,5,499.9500122,494.95,84.14,western europe,complete
+transfer,133.91,278.97,Gilbert,Estados Unidos,1636,4/2/2016,31364,191,78398,0.48,3,299.9700012,278.97,133.91,west of usa,suspected fraud
+transfer,-32.93,96,Wollongong,Australia,1664,11/2/2015,20918,502,52260,-0.34,2,100,96,-32.93,oceania,pending
+transfer,21.64,65.58,Sorocaba,Brasil,1695,2/6/2017,52601,627,131482,0.33,2,79.98000336,65.58,21.64,south america,processing
+transfer,91.79,339.97,Newcastle,SudAfrica,1758,11/22/2016,47343,191,118360,0.27,4,399.9599915,339.97,91.79,southern africa,processing
+debit,5.22,52.19,Melbourne,Australia,1763,12/13/2015,23706,365,59305,0.1,1,59.99000168,52.19,5.22,oceania,complete
+transfer,-27.88,72.78,Lismore,Australia,1801,3/24/2016,30713,627,76715,-0.38,2,79.98000336,72.78,-27.88,oceania,processing
+debit,40.04,114.39,Angeles City,Filipinas,1839,12/14/2015,23807,403,59572,0.35,1,129.9900055,114.39,40.04,southeast asia,complete
+transfer,75.43,163.98,New Plymouth,Nueva Zelanda,1865,3/27/2016,30963,191,77387,0.46,2,199.9799957,163.98,75.43,oceania,pending
+debit,-105.78,120.89,Dalian,China,1868,1/7/2016,25433,403,63711,-0.88,1,129.9900055,120.89,-105.78,eastern asia,complete
+transfer,27.71,79.18,Sarkand,Kazajistán,1880,10/31/2016,45863,627,114641,0.35,2,79.98000336,79.18,27.71,central asia,processing
+debit,99.16,260.96,Reggio nell'Emilia,Italia,1902,8/23/2015,16093,365,40196,0.38,5,299.9500122,260.96,99.16,southern europe,complete
+transfer,23.49,87,Mixco,Guatemala,1975,3/7/2015,4487,502,11226,0.27,2,100,87,23.49,central america,processing
+transfer,-12.38,75.98,Guarulhos,Brasil,2013,2/20/2017,53568,627,133877,-0.16,2,79.98000336,75.98,-12.38,south america,suspected fraud
+debit,17.82,53.99,Amsterdam,Países Bajos,2028,8/1/2015,14551,365,36402,0.33,1,59.99000168,53.99,17.82,western europe,complete
+transfer,178.58,379.96,Shinyanga,Tanzania,2041,9/17/2016,42882,191,107084,0.47,4,399.9599915,379.96,178.58,east africa,processing
+transfer,55.44,198,Strasbourg,Francia,2048,9/4/2017,66959,502,167372,0.28,4,200,198,55.44,western europe,canceled
+transfer,68.98,149.96,Managua,Nicaragua,2053,6/4/2017,60673,627,151869,0.46,5,199.9499969,149.96,68.98,central america,pending
+debit,54.77,165.96,Cairo,Egipto,2091,10/18/2016,44981,627,112334,0.33,5,199.9499969,165.96,54.77,north africa,on hold
+transfer,46.29,94.46,Lagos,Nigeria,2106,12/8/2016,48468,885,121217,0.49,4,99.95999908,94.46,46.29,west africa,pending
+debit,184.48,409.96,Mulhouse,Francia,2170,10/7/2015,19168,191,47903,0.45,5,499.9500122,409.96,184.48,western europe,complete
+transfer,21.77,79.18,Pitalito,Colombia,2200,4/19/2015,7411,627,18572,0.28,2,79.98000336,79.18,21.77,south america,processing
+transfer,14.96,237.5,Bagdad,Irak,2214,10/13/2016,44617,502,111395,0.06,5,250,237.5,14.96,west asia,pending
+payment,6.22,163.77,Shenzhen,China,2240,11/19/2015,22076,365,55227,0.04,3,179.9700012,163.77,6.22,eastern asia,pending payment
+debit,-19.17,269.96,Torrevieja,España,2256,9/16/2015,17726,365,44297,-0.07,5,299.9500122,269.96,-19.17,southern europe,complete
+debit,42.31,120.89,Reutlingen,Alemania,2270,8/6/2017,65011,403,162500,0.35,1,129.9900055,120.89,42.31,western europe,complete
+transfer,59.5,212.5,Ciudad del Carmen,México,2291,5/10/2015,8906,502,22214,0.28,5,250,212.5,59.5,central america,processing
+transfer,24.35,69.58,Tamworth,Australia,2292,12/13/2015,23751,627,59438,0.35,2,79.98000336,69.58,24.35,oceania,pending
+transfer,36.85,99.58,Chihuahua,México,2329,4/6/2017,56618,365,141623,0.37,2,119.9800034,99.58,36.85,central america,processing
+transfer,100.79,359.96,Afragola,Italia,2364,10/13/2015,19528,191,48809,0.28,4,399.9599915,359.96,100.79,southern europe,pending
+debit,12.09,120.89,Kütahya,Turquía,2454,8/30/2016,41608,403,103859,0.1,1,129.9900055,120.89,12.09,west asia,complete
+transfer,118.06,245.96,Cartago,Colombia,2538,4/6/2015,6522,365,16305,0.48,5,299.9500122,245.96,118.06,south america,suspected fraud
+payment,36.23,170.07,Tangerang,Indonesia,2546,4/1/2016,31296,365,78230,0.21,3,179.9700012,170.07,36.23,southeast asia,pending payment
+debit,89.09,296.95,Amberes,Bélgica,2550,6/11/2015,11083,365,27736,0.3,5,299.9500122,296.95,89.09,western europe,complete
+debit,-824.86,299.95,Cologne,Alemania,2610,6/24/2015,11968,365,29901,-2.75,5,299.9500122,299.95,-824.86,western europe,complete
+transfer,18,239.95,Tegucigalpa,Honduras,2643,4/13/2017,57128,818,142889,0.08,5,239.9499969,239.95,18,central america,processing
+transfer,43.16,166,Messina,Italia,2682,9/24/2015,18237,502,45583,0.26,4,200,166,43.16,southern europe,canceled
+debit,99.36,293.95,Makhachkala,Rusia,2719,10/10/2016,44442,365,110959,0.34,5,299.9500122,293.95,99.36,eastern europe,complete
+transfer,63.5,235.2,Taza,Marruecos,2728,11/29/2016,47840,565,119624,0.27,4,280,235.2,63.5,north africa,suspected fraud
+transfer,11.46,181.95,Las Tunas,Cuba,2737,3/30/2017,56172,627,140494,0.06,5,199.9499969,181.95,11.46,caribbean,pending
+transfer,16.02,51.18,Mexico City,México,2741,1/20/2017,51396,828,128444,0.31,2,63.97999954,51.18,16.02,central america,processing
+transfer,79.16,272.97,San Jose,Estados Unidos,2784,8/14/2016,40495,191,101052,0.29,3,299.9700012,272.97,79.16,west of usa,suspected fraud
+transfer,-24.82,132,Ottawa,Canada,2805,12/17/2016,49075,502,122703,-0.19,3,150,132,-24.82,canada,suspected fraud
+transfer,87.28,193.95,Atlixco,México,2813,2/22/2015,3625,627,9026,0.45,5,199.9499969,193.95,87.28,central america,suspected fraud
+transfer,25.48,98,Teresópolis,Brasil,2817,2/12/2015,2911,502,7273,0.26,2,100,98,25.48,south america,suspected fraud
+debit,218.48,474.95,Montreuil,Francia,2823,9/13/2017,67566,191,168920,0.46,5,499.9500122,474.95,218.48,western europe,complete
+debit,40.89,86.99,Parma,Italia,2918,8/14/2015,15421,191,38553,0.47,1,99.98999786,86.99,40.89,southern europe,complete
+debit,54.34,123.49,Riyadh,Arabia Saudí,2985,10/28/2016,45668,403,114148,0.44,1,129.9900055,123.49,54.34,west asia,complete
+debit,-91.51,114.39,Manukau City,Nueva Zelanda,3029,3/28/2016,30997,403,77469,-0.8,1,129.9900055,114.39,-91.51,oceania,complete
+transfer,58.19,232.76,Las Rozas de Madrid,España,3064,7/5/2017,62817,365,157066,0.25,4,239.9600067,232.76,58.19,southern europe,pending
+transfer,-100.83,208.77,Uvarovo,Rusia,3066,11/15/2016,46864,365,117157,-0.48,4,239.9600067,208.77,-100.83,eastern europe,canceled
+transfer,28.87,151.96,Carpentras,Francia,3071,7/11/2017,63220,627,158064,0.19,4,159.9600067,151.96,28.87,western europe,canceled
+debit,29.1,290.95,Sterlitamak,Rusia,3141,10/16/2016,44816,365,111953,0.1,5,299.9500122,290.95,29.1,eastern europe,complete
+transfer,-1.44,119.98,Belgaum,India,3153,11/3/2015,21016,365,52520,-0.01,2,119.9800034,119.98,-1.44,south asia,processing
+debit,5.28,52.79,Corlu,Turquía,3172,12/28/2016,49806,365,124509,0.1,1,59.99000168,52.79,5.28,west asia,complete
+transfer,145.53,464.95,Valenzuela,Filipinas,3204,3/9/2016,29731,191,74379,0.31,5,499.9500122,464.95,145.53,southeast asia,pending
+debit,14.7,293.95,Madrid,España,3206,8/2/2017,64677,365,161667,0.05,5,299.9500122,293.95,14.7,southern europe,complete
+transfer,18.13,40.29,Elmhurst,Estados Unidos,3222,7/6/2016,37845,924,94445,0.45,3,47.97000122,40.29,18.13,us center,suspected fraud
+transfer,-69.87,116.44,Tourcoing,Francia,3246,6/22/2015,11822,282,29569,-0.6,4,127.9599991,116.44,-69.87,western europe,pending
+debit,55.41,113.09,Ho Chi Minh City,Vietnam,3275,12/25/2015,24552,403,61470,0.49,1,129.9900055,113.09,55.41,southeast asia,complete
+debit,11.41,131.16,Annaba,Argelia,3283,12/28/2016,49857,825,124661,0.09,5,159.9499969,131.16,11.41,north africa,complete
+payment,22.41,74.68,Pasco,Estados Unidos,3296,6/11/2016,36146,278,90273,0.3,2,89.98000336,74.68,22.41,west of usa,pending payment
+transfer,35.62,284.95,Saltillo,México,3329,4/1/2015,6176,365,15435,0.13,5,299.9500122,284.95,35.62,central america,suspected fraud
+debit,36.08,409.96,Viena,Austria,3364,7/30/2017,64531,191,161304,0.09,5,499.9500122,409.96,36.08,western europe,complete
+debit,84.98,169.96,Bandundu,República Democrática del Congo,3372,11/6/2016,46308,627,115752,0.5,5,199.9499969,169.96,84.98,central africa,complete
+transfer,91.88,187.5,Quixadá,Brasil,3375,5/27/2015,10007,502,24992,0.49,5,250,187.5,91.88,south america,pending
+transfer,43.18,89.96,Sofia,Bulgaria,3471,12/4/2016,48193,905,120515,0.48,4,99.95999908,89.96,43.18,eastern europe,canceled
+transfer,-11.47,70.38,Santiago de Cuba,Cuba,3484,5/30/2017,60317,627,150929,-0.16,2,79.98000336,70.38,-11.47,caribbean,processing
+transfer,8.76,99.58,Philadelphia,Estados Unidos,3528,7/27/2016,39271,627,98043,0.09,3,119.9700012,99.58,8.76,east of usa,suspected fraud
+transfer,31.84,90.96,Granada,España,3535,8/11/2015,15231,93,38097,0.35,4,99.95999908,90.96,31.84,southern europe,pending
+transfer,31.25,111.6,Pretoria,SudAfrica,3594,9/2/2016,41827,564,104416,0.28,4,120,111.6,31.25,southern africa,pending
+debit,70.14,207.5,Foumban,Camerún,3597,9/3/2016,41893,502,104569,0.34,5,250,207.5,70.14,central africa,complete
+transfer,27.54,67.17,Mogadishu,Somalia,3624,12/14/2016,48901,810,122273,0.41,4,79.95999908,67.17,27.54,east africa,processing
+debit,66.29,254.96,Warsaw,Polonia,3659,9/6/2016,42087,365,105073,0.26,5,299.9500122,254.96,66.29,eastern europe,complete
+transfer,69.68,158.37,Cincinnati,Estados Unidos,3800,4/21/2016,32617,365,81596,0.44,3,179.9700012,158.37,69.68,east of usa,suspected fraud
+transfer,22.39,63.98,Lahore,Pakistán,3815,1/30/2016,27007,825,67646,0.35,2,63.97999954,63.98,22.39,south asia,pending
+debit,100.37,296.95,Cholet,Francia,3868,10/19/2015,19973,365,49932,0.34,5,299.9500122,296.95,100.37,western europe,complete
+debit,-19.07,116.99,Termez,Uzbekistán,3905,9/9/2016,42271,403,105539,-0.16,1,129.9900055,116.99,-19.07,central asia,complete
+debit,29.1,290.95,San Sebastian,España,3942,6/3/2015,10502,365,26313,0.1,5,299.9500122,290.95,29.1,southern europe,complete
+debit,106.9,296.95,Bochum,Alemania,3961,8/19/2015,15787,365,39463,0.36,5,299.9500122,296.95,106.9,western europe,complete
+transfer,9.84,98.38,Makati,Filipinas,3985,3/12/2016,29871,365,74735,0.1,2,119.9800034,98.38,9.84,southeast asia,pending
+transfer,78.28,173.96,San Miguelito,Panamá,3990,4/15/2017,57242,627,143183,0.45,5,199.9499969,173.96,78.28,central america,pending
+transfer,41.28,96,Santo Domingo,República Dominicana,3997,5/22/2017,59742,502,149496,0.43,2,100,96,41.28,caribbean,processing
+debit,29.74,114.39,K'ut'aisi,Georgia,4005,12/25/2016,49598,403,123961,0.26,1,129.9900055,114.39,29.74,west asia,complete
+transfer,89.17,181.98,Ranchi,India,4029,12/29/2015,24853,191,62257,0.49,2,199.9799957,181.98,89.17,south asia,pending
+debit,-169.64,113.09,Estambul,Turquía,4062,9/23/2016,43257,403,108061,-1.5,1,129.9900055,113.09,-169.64,west asia,complete
+debit,82.15,186.71,Cotonou,Benín,4104,12/2/2016,48042,116,120131,0.44,5,224.9499969,186.71,82.15,west africa,on hold
+transfer,35.99,71.98,Tegucigalpa,Honduras,4140,3/31/2017,56217,627,140615,0.5,2,79.98000336,71.98,35.99,central america,processing
+transfer,68.59,188.95,São Paulo,Brasil,4209,4/3/2015,6358,627,15921,0.36,5,199.9499969,188.95,68.59,south america,pending
+debit,242.48,484.95,Montpellier,Francia,4210,7/29/2017,64451,191,161109,0.5,5,499.9500122,484.95,242.48,western europe,complete
+payment,-115.6,170,Tegucigalpa,Honduras,4232,3/21/2017,55511,502,138833,-0.68,4,200,170,-115.6,central america,pending payment
+transfer,87.12,240,Santo Domingo,República Dominicana,4249,2/2/2017,52321,502,130737,0.36,5,250,240,87.12,caribbean,suspected fraud
+transfer,-89.99,224.96,Arequipa,Perú,4280,5/1/2017,58298,365,145886,-0.4,5,299.9500122,224.96,-89.99,south america,suspected fraud
+debit,39.91,118.08,Mahajanga,Madagascar,4296,10/11/2016,44496,886,111088,0.34,5,124.9499969,118.08,39.91,east africa,complete
+debit,22.5,225,Lokossa,Benín,4398,12/10/2016,48608,502,121561,0.1,5,250,225,22.5,west africa,complete
+debit,12.87,207.5,Maiduguri,Nigeria,4399,11/12/2016,46667,502,116672,0.06,5,250,207.5,12.87,west africa,complete
+transfer,29.51,65.58,Hobart,Australia,4402,3/31/2016,31211,627,77993,0.45,2,79.98000336,65.58,29.51,oceania,pending
+transfer,-790.42,464.95,Mersin,Turquía,4438,9/16/2016,42777,191,106778,-1.7,5,499.9500122,464.95,-790.42,west asia,pending
+transfer,38,379.96,Erftstadt,Alemania,4460,9/5/2017,67046,191,167612,0.1,4,399.9599915,379.96,38,western europe,pending
+transfer,6.64,165.98,Caloocan,Filipinas,4464,10/31/2015,20773,191,51911,0.04,2,199.9799957,165.98,6.64,southeast asia,processing
+debit,54.05,122.84,Dunedin,Nueva Zelanda,4510,3/28/2016,30966,403,77398,0.44,1,129.9900055,122.84,54.05,oceania,complete
+transfer,92.97,226.76,Hurghada,Egipto,4533,9/6/2016,42101,365,105115,0.41,4,239.9600067,226.76,92.97,north africa,pending
+transfer,17.13,71.98,Petapa,Guatemala,4539,3/28/2015,5893,627,14655,0.24,2,79.98000336,71.98,17.13,central america,processing
+debit,97.33,287.95,Florence,Italia,4563,9/27/2015,18448,365,46117,0.34,5,299.9500122,287.95,97.33,southern europe,complete
+debit,41.8,474.95,Gdynia,Polonia,4596,11/17/2016,47002,191,117458,0.09,5,499.9500122,474.95,41.8,eastern europe,complete
+transfer,8.26,131.17,Dire Dawa,Etiopía,4612,11/24/2016,47493,627,118732,0.06,4,159.9600067,131.17,8.26,east africa,suspected fraud
+debit,58.5,116.99,Semarang,Indonesia,4618,2/13/2016,27957,403,69967,0.5,1,129.9900055,116.99,58.5,southeast asia,complete
+transfer,42.63,87,Nelson,Nueva Zelanda,4627,3/28/2016,31018,502,77528,0.49,2,100,87,42.63,oceania,processing
+payment,13.2,132,Tlaquepaque,México,4673,3/29/2015,5991,502,14921,0.1,3,150,132,13.2,central america,pending payment
+debit,53.5,127.39,Exeter,Reino Unido,4695,8/29/2015,16446,403,41066,0.42,1,129.9900055,127.39,53.5,northern europe,complete
+debit,32.76,109.19,Castrop-Rauxel,Alemania,4697,8/26/2017,66351,403,165859,0.3,1,129.9900055,109.19,32.76,western europe,complete
+transfer,38.41,116.38,Cainta,Filipinas,4700,1/9/2016,25606,365,64151,0.33,2,119.9800034,116.38,38.41,southeast asia,processing
+payment,-122.73,79.18,Bursa,Turquía,4741,10/25/2016,45461,627,113598,-1.55,2,79.98000336,79.18,-122.73,west asia,pending payment
+transfer,54.46,173.98,Mackay,Australia,4756,12/2/2015,22988,191,57534,0.31,2,199.9799957,173.98,54.46,oceania,processing
+transfer,-22.5,449.96,Cotia,Brasil,4781,5/7/2015,8636,191,21551,-0.05,5,499.9500122,449.96,-22.5,south america,processing
+transfer,-58.31,245,Monterrey,México,4784,4/14/2017,57152,502,142954,-0.24,5,250,245,-58.31,central america,processing
+debit,-38.92,118.29,Newcastle,Australia,4807,2/4/2016,27357,403,68507,-0.33,1,129.9900055,118.29,-38.92,oceania,complete
+transfer,-18.6,74.38,Eskisehir,Turquía,4808,10/20/2016,45126,572,112704,-0.25,2,79.98000336,74.38,-18.6,west asia,pending
+debit,49.76,113.09,Neijiang,China,4813,2/5/2016,27457,403,68738,0.44,1,129.9900055,113.09,49.76,eastern asia,complete
+transfer,63.74,424.96,Jiangyan,China,4841,12/23/2015,24453,191,61194,0.15,5,499.9500122,424.96,63.74,eastern asia,canceled
+debit,3.49,290.95,Pertuis,Francia,4842,7/22/2015,13907,365,34810,0.01,5,299.9500122,290.95,3.49,western europe,complete
+transfer,182.34,387.96,Turin,Italia,4848,7/26/2017,64222,191,160566,0.47,4,399.9599915,387.96,182.34,southern europe,pending
+transfer,-109.42,230.36,Cologne,Alemania,4909,7/5/2017,62786,365,156977,-0.48,4,239.9600067,230.36,-109.42,western europe,canceled
+transfer,60.9,210,Valencia,Venezuela,4998,5/10/2015,8847,502,22094,0.29,5,250,210,60.9,south america,processing
+transfer,30.8,280,Santiago de Chile,Chile,5011,3/23/2017,55636,565,139149,0.11,5,350,280,30.8,south america,processing
+debit,172.18,419.96,Leipzig,Alemania,5036,8/31/2017,66702,191,166720,0.41,5,499.9500122,419.96,172.18,western europe,complete
+transfer,72.08,232.5,Asahikawa,japan,5074,11/6/2015,21193,502,53008,0.31,5,250,232.5,72.08,eastern asia,pending
+transfer,0,99,Monterrey,México,5088,5/5/2017,58623,502,146742,0,2,100,99,0,central america,processing
+transfer,32.79,131.16,Borujerd,Irán,5089,9/27/2016,43561,276,108786,0.25,5,159.9499969,131.16,32.79,south asia,pending
+transfer,83.98,167.96,Santiago de Cuba,Cuba,5118,1/15/2015,973,627,2420,0.5,5,199.9499969,167.96,83.98,caribbean,pending
+payment,-184.78,263.97,Ugep,Nigeria,5197,10/4/2016,44046,191,110025,-0.7,3,299.9700012,263.97,-184.78,west africa,pending payment
+transfer,207.48,414.96,Antipolo,Filipinas,5243,12/15/2015,23886,191,59793,0.5,5,499.9500122,414.96,207.48,southeast asia,pending
+debit,122.98,299.95,Marbella,España,5246,8/25/2015,16218,365,40487,0.41,5,299.9500122,299.95,122.98,southern europe,complete
+debit,-29.38,120.89,Tengzhou,China,5270,11/11/2015,21522,403,53808,-0.24,1,129.9900055,120.89,-29.38,eastern asia,complete
+transfer,-190.65,123,Mixco,Guatemala,5274,5/13/2015,9063,564,22602,-1.55,5,150,123,-190.65,central america,suspected fraud
+debit,12.28,122.84,Mersin,Turquía,5295,9/10/2016,42353,403,105750,0.1,1,129.9900055,122.84,12.28,west asia,complete
+transfer,39.15,346.5,Juárez,México,5301,2/21/2017,53576,565,133897,0.11,5,350,346.5,39.15,central america,processing
+transfer,-265.6,166,Wad Madani,Sudán,5329,9/23/2016,43266,502,108079,-1.6,4,200,166,-265.6,north africa,processing
+transfer,-283.47,472.45,Bagdad,Irak,5339,10/28/2016,45646,191,114090,-0.6,5,499.9500122,472.45,-283.47,west asia,pending
+transfer,48,240,Mexico City,México,5364,5/15/2017,59301,502,148446,0.2,5,250,240,48,central america,processing
+transfer,7.21,65.58,Apopa,El Salvador,5375,2/16/2017,53231,572,133008,0.11,2,79.98000336,65.58,7.21,central america,processing
+debit,20.13,123.49,Adana,Turquía,5384,12/12/2016,48713,403,121833,0.16,1,129.9900055,123.49,20.13,west asia,complete
+transfer,40.36,139.17,Sale,Marruecos,5418,9/19/2016,42971,627,107336,0.29,4,159.9600067,139.17,40.36,north africa,processing
+transfer,140.98,299.95,León,Nicaragua,5421,3/26/2017,55876,365,139714,0.47,5,299.9500122,299.95,140.98,central america,processing
+transfer,85.05,189,Jartum,Sudán,5474,9/28/2016,43599,502,108885,0.45,4,200,189,85.05,north africa,canceled
+debit,10.07,114.39,Gold Coast,Australia,5582,11/7/2015,21267,403,53192,0.09,1,129.9900055,114.39,10.07,oceania,complete
+transfer,47.04,98,Ajman,Emiratos Árabes Unidos,5598,10/8/2016,44316,502,110667,0.48,2,100,98,47.04,west asia,processing
+transfer,36.26,111.58,Bornova,Turquía,5674,12/15/2016,48954,365,122405,0.33,2,119.9800034,111.58,36.26,west asia,canceled
+debit,15.4,220,Ikot Ekpene,Nigeria,5687,10/26/2016,45506,502,113719,0.07,5,250,220,15.4,west africa,complete
+transfer,70.2,180,Gloucester,Reino Unido,5707,9/11/2015,17363,502,43391,0.39,4,200,180,70.2,northern europe,canceled
+payment,51.9,153.56,Melbourne,Australia,5728,12/26/2015,24661,627,61755,0.34,4,159.9600067,153.56,51.9,oceania,pending payment
+transfer,170.98,379.96,Milan,Italia,5749,10/7/2015,19178,191,47915,0.45,4,399.9599915,379.96,170.98,southern europe,pending
+debit,72.53,278.95,Astracán,Rusia,5767,12/29/2016,49936,365,124839,0.26,5,299.9500122,278.95,72.53,eastern europe,complete
+debit,15.44,123.49,Daca,Bangladés,5801,1/3/2016,25163,403,63064,0.13,1,129.9900055,123.49,15.44,south asia,complete
+transfer,8.55,113.98,seoul,Corea del Sur,5821,11/13/2015,21697,365,54280,0.08,2,119.9800034,113.98,8.55,eastern asia,pending
+transfer,23.86,211.16,Milan,Italia,5854,7/23/2015,13939,365,34880,0.11,4,239.9600067,211.16,23.86,southern europe,canceled
+transfer,37.55,119.98,Guangzhou,China,5920,1/10/2016,25688,365,64329,0.31,2,119.9800034,119.98,37.55,eastern asia,canceled
+transfer,28.86,327.97,Venice,Italia,5929,9/17/2017,67866,191,169683,0.09,4,399.9599915,327.97,28.86,southern europe,pending
+debit,126.7,263.96,Milan,Italia,5939,8/23/2015,16098,365,40211,0.48,5,299.9500122,263.96,126.7,southern europe,complete
+transfer,58.8,173.96,Cuscatancingo,El Salvador,5965,2/5/2015,2428,627,6064,0.34,5,199.9499969,173.96,58.8,central america,processing
+transfer,69.15,363.96,Pescara,Italia,6050,8/28/2015,16436,191,41034,0.19,4,399.9599915,363.96,69.15,southern europe,pending
+transfer,41.4,90,La Ceiba,Honduras,6071,3/22/2015,5528,502,13796,0.46,2,100,90,41.4,central america,processing
+transfer,-349.97,399.96,Izmir,Turquía,6073,11/29/2016,47846,191,119635,-0.88,5,499.9500122,399.96,-349.97,west asia,pending
+debit,29.4,113.09,Pekín,China,6156,12/6/2015,23267,403,58260,0.26,1,129.9900055,113.09,29.4,eastern asia,complete
+transfer,32.45,100.78,Aurangabad,India,6180,1/13/2016,25847,365,64696,0.32,2,119.9800034,100.78,32.45,south asia,processing
+debit,109.19,419.96,Munich,Alemania,6220,9/11/2015,17368,191,43402,0.26,5,499.9500122,419.96,109.19,western europe,complete
+transfer,-12.99,227.96,Antananarivo,Madagascar,6246,9/9/2016,42331,365,105703,-0.06,4,239.9600067,227.96,-12.99,east africa,canceled
+debit,53.04,110.49,Ahvaz,Irán,6376,1/5/2017,50377,403,125882,0.48,1,129.9900055,110.49,53.04,south asia,complete
+transfer,104.81,218.36,Elx,España,6402,10/16/2015,19732,365,49329,0.48,4,239.9600067,218.36,104.81,southern europe,pending
+payment,114.39,439.96,Brindisi,Italia,6416,8/19/2015,15766,191,39413,0.26,5,499.9500122,439.96,114.39,southern europe,pending payment
+debit,14.25,56.99,Bagdad,Irak,6422,9/17/2016,42828,365,106946,0.25,1,59.99000168,56.99,14.25,west asia,complete
+transfer,79.37,283.45,Ho Chi Minh City,Vietnam,6466,12/5/2015,23156,365,57969,0.28,5,299.9500122,283.45,79.37,southeast asia,pending
+transfer,65.51,218.36,Accra,Ghana,6473,11/27/2016,47731,365,119355,0.3,4,239.9600067,218.36,65.51,west africa,processing
+transfer,185.2,377.96,Harrow,Reino Unido,6506,8/11/2017,65312,191,163231,0.49,4,399.9599915,377.96,185.2,northern europe,pending
+transfer,67.5,225,Tepic,México,6543,2/5/2017,52478,502,131161,0.3,5,250,225,67.5,central america,pending
+transfer,-41.74,195.98,Ho Chi Minh City,Vietnam,6707,11/21/2015,22261,191,55735,-0.21,2,199.9799957,195.98,-41.74,southeast asia,pending
+transfer,59.06,236.25,Yangzhou,China,6738,11/6/2015,21196,502,53018,0.25,5,250,236.25,59.06,eastern asia,pending
+payment,112.8,240,Lázaro Cárdenas,México,6746,2/6/2017,52576,502,131420,0.47,5,250,240,112.8,central america,payment review
+debit,87.29,290.95,Wetzlar,Alemania,6758,6/27/2017,62237,365,155615,0.3,5,299.9500122,290.95,87.29,western europe,complete
+debit,6.96,110.49,Daegu,Corea del Sur,6763,12/25/2015,24548,403,61462,0.06,1,129.9900055,110.49,6.96,eastern asia,complete
+debit,38.66,114.39,Lismore,Australia,6855,3/24/2016,30712,403,76714,0.34,1,129.9900055,114.39,38.66,oceania,complete
+transfer,-74.39,185.98,San Pedro Sula,Honduras,6875,1/26/2015,1756,191,4379,-0.4,2,199.9799957,185.98,-74.39,central america,suspected fraud
+debit,11.31,113.09,Estambul,Turquía,6897,12/29/2016,49888,403,124741,0.1,1,129.9900055,113.09,11.31,west asia,complete
+debit,-25.74,114.39,Bhavnagar,India,6956,11/9/2015,21407,403,53530,-0.23,1,129.9900055,114.39,-25.74,south asia,complete
+debit,15.66,53.99,Thane,India,6961,11/16/2015,21906,365,54790,0.29,1,59.99000168,53.99,15.66,south asia,complete
+payment,83.6,190,Giurgiu,Rumania,7112,10/29/2016,45746,502,114342,0.44,4,200,190,83.6,eastern europe,pending payment
+transfer,10.79,41.48,Santiago de Chile,Chile,7141,1/14/2015,906,886,2257,0.26,2,49.97999954,41.48,10.79,south america,processing
+transfer,14.96,169.98,Yuci,China,7229,3/13/2016,29993,191,75003,0.09,2,199.9799957,169.98,14.96,eastern asia,processing
+transfer,34.85,124.46,Nueva Gerona,Cuba,7247,4/3/2017,56448,977,141192,0.28,5,149.9499969,124.46,34.85,caribbean,pending
+transfer,-162.75,93,Coacalco,México,7259,3/31/2017,56222,502,140631,-1.75,2,100,93,-162.75,central america,processing
+transfer,-290.5,166,Kalemie,República Democrática del Congo,7272,10/14/2016,44677,502,111568,-1.75,4,200,166,-290.5,central africa,processing
+transfer,29.04,88,Puebla,México,7307,4/9/2015,6776,502,16941,0.33,2,100,88,29.04,central america,processing
+debit,88.72,283.45,Viena,Austria,7327,9/9/2017,67331,365,168290,0.31,5,299.9500122,283.45,88.72,western europe,complete
+transfer,62.06,170.96,Luanda,Angola,7331,10/8/2016,44265,116,110520,0.36,4,179.9600067,170.96,62.06,central africa,suspected fraud
+transfer,62.98,179.96,Matagalpa,Nicaragua,7407,2/21/2015,3527,572,8768,0.35,5,199.9499969,179.96,62.98,central america,processing
+transfer,-36.84,195.95,São Paulo,Brasil,7446,3/18/2017,55336,627,138382,-0.19,5,199.9499969,195.95,-36.84,south america,processing
+transfer,49.97,101.98,Guadalajara,México,7454,3/13/2017,55002,365,137558,0.49,2,119.9800034,101.98,49.97,central america,processing
+transfer,59.15,203.97,Uvarovo,Rusia,7464,11/15/2016,46863,365,117152,0.29,4,239.9600067,203.97,59.15,eastern europe,pending
+transfer,36.8,80,Itu,Brasil,7534,3/6/2017,54488,502,136276,0.46,2,100,80,36.8,south america,processing
+transfer,167.42,363.96,Kismaayo,Somalia,7537,11/14/2016,46827,191,117074,0.46,4,399.9599915,363.96,167.42,east africa,processing
+transfer,70.84,196.77,La Seyne-sur-Mer,Francia,7586,9/4/2015,16863,365,42135,0.36,4,239.9600067,196.77,70.84,western europe,pending
+payment,25.21,96.95,Galati,Rumania,7603,1/17/2017,51226,804,128006,0.26,5,99.94999695,96.95,25.21,eastern europe,pending payment
+transfer,44.53,139.17,Kindia,Guinea,7683,12/19/2016,49218,627,123061,0.32,4,159.9600067,139.17,44.53,west africa,suspected fraud
+transfer,-18.81,494.95,Villa Nueva,Guatemala,7701,2/2/2015,2203,191,5525,-0.04,5,499.9500122,494.95,-18.81,central america,processing
+transfer,-154.78,211.16,Meknes,Marruecos,7764,10/17/2016,44938,365,112233,-0.73,4,239.9600067,211.16,-154.78,north africa,processing
+debit,-193.43,120.89,Cirebon,Indonesia,7795,1/27/2016,26821,403,67197,-1.6,1,129.9900055,120.89,-193.43,southeast asia,complete
+transfer,47.56,164,Kinshasa,República Democrática del Congo,7810,11/30/2016,47917,502,119835,0.29,4,200,164,47.56,central africa,processing
+transfer,62.99,224.96,San Salvador,El Salvador,7844,3/7/2017,54572,365,136489,0.28,5,299.9500122,224.96,62.99,central america,processing
+debit,40.56,124.79,Estambul,Turquía,7884,8/31/2016,41686,403,104060,0.33,1,129.9900055,124.79,40.56,west asia,complete
+transfer,34.65,99,Brumado,Brasil,7887,5/30/2015,10276,502,25725,0.35,2,100,99,34.65,south america,suspected fraud
+debit,-11.22,260.96,Warsaw,Polonia,7905,10/23/2016,45291,365,113166,-0.04,5,299.9500122,260.96,-11.22,eastern europe,complete
+debit,132.28,293.95,Cheliábinsk,Rusia,7924,9/16/2016,42783,365,106792,0.45,5,299.9500122,293.95,132.28,eastern europe,complete
+debit,14.62,116.99,Durgapur,India,7931,1/28/2016,26861,403,67304,0.13,1,129.9900055,116.99,14.62,south asia,complete
+transfer,14.94,165.98,Fukui,japan,7963,2/22/2016,28568,191,71494,0.09,2,199.9799957,165.98,14.94,eastern asia,processing
+transfer,-82.01,351.96,Cairo,Egipto,7967,11/8/2016,46416,191,116042,-0.23,4,399.9599915,351.96,-82.01,north africa,processing
+transfer,47.87,251.96,Santiago de los Caballeros,República Dominicana,8002,5/17/2015,9331,365,23280,0.19,5,299.9500122,251.96,47.87,caribbean,processing
+transfer,90,200,Monrovia,Liberia,8050,1/16/2017,51168,502,127882,0.45,4,200,200,90,west africa,canceled
+debit,87.29,290.95,Brandenburgo,Alemania,8065,7/20/2017,63843,365,159589,0.3,5,299.9500122,290.95,87.29,western europe,complete
+debit,56.05,114.39,Milan,Italia,8348,8/27/2017,66411,403,166013,0.49,1,129.9900055,114.39,56.05,southern europe,complete
+debit,-187.38,120.89,Ajmer,India,8358,12/18/2015,24063,403,60210,-1.55,1,129.9900055,120.89,-187.38,south asia,complete
+transfer,49.06,260.96,Tegucigalpa,Honduras,8397,3/6/2015,4427,365,11090,0.19,5,299.9500122,260.96,49.06,central america,processing
+transfer,116.38,237.5,La Paz,Bolivia,8517,6/3/2017,60567,502,151598,0.49,5,250,237.5,116.38,south america,processing
+transfer,45,155.16,Niamey,Níger,8519,9/5/2016,42023,627,104898,0.29,4,159.9600067,155.16,45,west africa,pending
+transfer,104.4,217.5,Ixtapaluca,México,8524,2/15/2015,3137,502,7805,0.48,5,250,217.5,104.4,central america,pending
+debit,52.19,173.96,Warri,Nigeria,8534,10/19/2016,45027,627,112427,0.3,5,199.9499969,173.96,52.19,west africa,complete
+debit,38.02,116.99,Bishkek,Kirguistán,8552,1/9/2017,50628,403,126524,0.33,1,129.9900055,116.99,38.02,central asia,complete
+transfer,35.69,83,Wuhan,China,8612,3/17/2016,30267,502,75618,0.43,2,100,83,35.69,eastern asia,pending
+transfer,6.98,77.58,Bucheon,Corea del Sur,8681,12/30/2015,24878,627,62323,0.09,2,79.98000336,77.58,6.98,eastern asia,processing
+transfer,32.36,99.58,Zacatecas,México,8696,2/21/2017,53586,365,133933,0.33,2,119.9800034,99.58,32.36,central america,processing
+debit,136.06,283.45,Lohne,Alemania,8701,9/5/2017,67037,365,167580,0.48,5,299.9500122,283.45,136.06,western europe,complete
+debit,7.45,118.29,Bangalore,India,8720,12/25/2015,24558,403,61483,0.06,1,129.9900055,118.29,7.45,south asia,complete
+transfer,23.39,71.98,Maturín,Venezuela,8730,1/6/2015,367,627,922,0.33,2,79.98000336,71.98,23.39,south america,processing
+transfer,74.04,203.97,Algiers,Argelia,8741,8/26/2016,41345,365,103211,0.36,4,239.9600067,203.97,74.04,north africa,canceled
+transfer,26.87,76.78,Querétaro,México,8746,5/18/2017,59498,627,148919,0.35,2,79.98000336,76.78,26.87,central america,processing
+transfer,72.85,158.36,Cairo,Egipto,8792,11/30/2016,47938,627,119885,0.46,4,159.9600067,158.36,72.85,north africa,processing
+transfer,117.58,235.16,Nantes,Francia,8806,7/16/2017,63516,365,158778,0.5,4,239.9600067,235.16,117.58,western europe,pending
+transfer,47.53,97,Estambul,Turquía,8850,11/8/2016,46401,502,116011,0.49,2,100,97,47.53,west asia,processing
+transfer,31.75,226.76,Bondy,Francia,8899,8/19/2017,65898,365,164682,0.14,4,239.9600067,226.76,31.75,western europe,pending
+transfer,51.98,236.25,Barueri,Brasil,8917,4/13/2017,57106,502,142841,0.22,5,250,236.25,51.98,south america,pending
+transfer,13.7,47.23,Águas Lindas de Goiás,Brasil,8925,3/25/2015,5712,905,14229,0.29,2,49.97999954,47.23,13.7,south america,processing
+transfer,22.9,99.58,Townsville,Australia,8977,12/15/2015,23878,365,59768,0.23,2,119.9800034,99.58,22.9,oceania,pending
+transfer,95.81,283.45,Jaipur,India,8992,11/6/2015,21192,365,53007,0.34,5,299.9500122,283.45,95.81,south asia,pending
+transfer,95.99,199.98,Astaná,Kazajistán,8995,9/27/2016,43521,191,108697,0.48,2,199.9799957,199.98,95.99,central asia,pending
+transfer,-15.39,98,Bangkok,Tailandia,9001,2/29/2016,29107,502,72836,-0.16,2,100,98,-15.39,southeast asia,pending
+transfer,47.51,105.58,Villa Canales,Guatemala,9002,2/5/2017,52533,365,131310,0.45,2,119.9800034,105.58,47.51,central america,suspected fraud
+debit,1.04,52.19,Riyadh,Arabia Saudí,9023,10/14/2016,44706,365,111642,0.02,1,59.99000168,52.19,1.04,west asia,complete
+debit,195.73,434.96,Toulouse,Francia,9119,7/20/2017,63803,191,159475,0.45,5,499.9500122,434.96,195.73,western europe,complete
+transfer,32.67,104.38,Jiutepec,México,9145,2/4/2015,2332,365,5832,0.31,2,119.9800034,104.38,32.67,central america,suspected fraud
+transfer,-55.34,232.5,Valencia,Filipinas,9148,1/16/2016,26073,502,65260,-0.24,5,250,232.5,-55.34,southeast asia,pending
+debit,54.41,118.29,Changwon,Corea del Sur,9163,11/17/2015,21971,403,54950,0.46,1,129.9900055,118.29,54.41,eastern asia,complete
+debit,117.28,254.96,Derbent,Rusia,9172,1/8/2017,50588,365,126418,0.46,5,299.9500122,254.96,117.28,eastern europe,complete
+transfer,10.77,170.97,Fresno,Estados Unidos,9174,5/18/2016,34506,365,86191,0.06,3,179.9700012,170.97,10.77,west of usa,suspected fraud
+transfer,47.85,217.5,Maceió,Brasil,9204,5/27/2017,60127,502,150464,0.22,5,250,217.5,47.85,south america,pending
+transfer,92.63,237.5,Taizz,Yemen,9248,1/3/2017,50226,502,125535,0.39,5,250,237.5,92.63,west asia,pending
+transfer,25.81,82.46,Heyuan,China,9345,12/19/2015,24118,249,60332,0.31,2,109.9400024,82.46,25.81,eastern asia,pending
+payment,43.52,167.37,Gateshead,Reino Unido,9353,7/2/2017,62571,365,156394,0.26,3,179.9700012,167.37,43.52,northern europe,pending payment
+transfer,-34.79,47.99,Saveh,Irán,9356,9/9/2016,42287,282,105583,-0.73,2,63.97999954,47.99,-34.79,south asia,pending
+debit,109.11,484.95,Neuilly-sur-Seine,Francia,9385,6/28/2017,62336,191,155832,0.23,5,499.9500122,484.95,109.11,western europe,complete
+payment,141.11,391.96,Munich,Alemania,9415,6/15/2015,11321,191,28304,0.36,4,399.9599915,391.96,141.11,western europe,pending payment
+transfer,-63.16,191.97,Cairo,Egipto,9419,11/2/2016,45987,365,114931,-0.33,4,239.9600067,191.97,-63.16,north africa,suspected fraud
+transfer,76.43,272.95,Camagüey,Cuba,9429,6/1/2017,60460,365,151294,0.28,5,299.9500122,272.95,76.43,caribbean,suspected fraud
+debit,230.38,479.95,Fano,Italia,9466,9/5/2017,66998,191,167475,0.48,5,499.9500122,479.95,230.38,southern europe,complete
+transfer,-101.24,449.96,Hyderabad,India,9495,2/9/2016,27742,191,69461,-0.23,5,499.9500122,449.96,-101.24,south asia,canceled
+transfer,55.1,122.45,Macapá,Brasil,9501,5/8/2015,8728,897,21771,0.45,5,124.9499969,122.45,55.1,south america,processing
+transfer,-79.78,108.84,Samarinda,Indonesia,9507,11/24/2015,22468,249,56232,-0.73,2,109.9400024,108.84,-79.78,southeast asia,pending
+transfer,-420.68,254.96,Antalya,Turquía,9524,11/18/2016,47092,365,117694,-1.65,5,299.9500122,254.96,-420.68,west asia,pending
+transfer,36,479.95,Managua,Nicaragua,9528,5/27/2017,60146,191,150522,0.08,5,499.9500122,479.95,36,central america,processing
+transfer,8.5,212.5,Belo Horizonte,Brasil,9554,5/31/2017,60386,502,151122,0.04,5,250,212.5,8.5,south america,pending
+transfer,30.23,93,Hermosillo,México,9563,2/6/2017,52582,502,131429,0.33,2,100,93,30.23,central america,processing
+payment,95.62,254.97,Tabuk,Arabia Saudí,9597,12/23/2016,49521,191,123770,0.38,3,299.9700012,254.97,95.62,west asia,payment review
+debit,-184.26,122.84,Melbourne,Australia,9626,3/14/2016,30063,403,75154,-1.5,1,129.9900055,122.84,-184.26,oceania,complete
+transfer,21.42,90,Parintins,Brasil,9634,2/3/2017,52353,502,130831,0.24,2,100,90,21.42,south america,processing
+debit,-215.23,409.96,Meyzieu,Francia,9671,9/9/2017,67292,191,168171,-0.53,5,499.9500122,409.96,-215.23,western europe,complete
+transfer,60.75,225,Santo Domingo,República Dominicana,9697,5/9/2017,58896,502,147424,0.27,5,250,225,60.75,caribbean,suspected fraud
+payment,24.69,75.98,Kartal,Turquía,9702,10/30/2016,45766,627,114401,0.33,2,79.98000336,75.98,24.69,west asia,pending payment
+debit,-25.74,114.39,Perth,Australia,9769,1/18/2016,26183,403,65542,-0.23,1,129.9900055,114.39,-25.74,oceania,complete
+transfer,101.24,374.96,Christchurch,Nueva Zelanda,9803,3/30/2016,31145,191,77830,0.27,5,499.9500122,374.96,101.24,oceania,canceled
+debit,-14.4,287.95,Nanterre,Francia,9813,10/10/2015,19333,365,48340,-0.05,5,299.9500122,287.95,-14.4,western europe,complete
+debit,-61.12,374.96,Chelles,Francia,9821,9/16/2017,67818,191,169554,-0.16,5,499.9500122,374.96,-61.12,western europe,complete
+transfer,-459,170,Marrakech,Marruecos,9890,11/19/2016,47193,502,117955,-2.7,4,200,170,-459,north africa,pending
+transfer,84.59,179.97,Widnes,Reino Unido,9906,7/6/2017,62840,365,157125,0.47,4,239.9600067,179.97,84.59,northern europe,canceled
+debit,54.91,114.39,Newcastle,Australia,10026,2/2/2016,27207,403,68159,0.48,1,129.9900055,114.39,54.91,oceania,complete
+transfer,7.48,118.77,Columbus,Estados Unidos,10029,7/1/2016,37496,627,93579,0.06,3,119.9700012,118.77,7.48,us center,suspected fraud
+transfer,87.42,186,Alexandria,Egipto,10031,8/29/2016,41572,502,103766,0.47,4,200,186,87.42,north africa,processing
+debit,27.36,56.99,Gold Coast,Australia,10081,2/16/2016,28168,365,70443,0.48,1,59.99000168,56.99,27.36,oceania,complete
+transfer,38.28,217.5,Americana,Brasil,10093,4/12/2017,57032,502,142664,0.18,5,250,217.5,38.28,south america,processing
+transfer,19.17,89.99,Ahvaz,Irán,10126,10/19/2016,45036,365,112451,0.21,2,119.9800034,89.99,19.17,south asia,processing
+debit,43.02,263.96,Drancy,Francia,10129,6/4/2015,10586,365,26512,0.16,5,299.9500122,263.96,43.02,western europe,complete
+debit,49.13,272.95,Toulouse,Francia,10132,9/2/2015,16767,365,41902,0.18,5,299.9500122,272.95,49.13,western europe,complete
+transfer,81.66,296.95,Tlalpan,México,10200,2/17/2017,53331,365,133251,0.28,5,299.9500122,296.95,81.66,central america,processing
+transfer,21.12,88,Armidale,Australia,10201,1/28/2016,26871,502,67330,0.24,2,100,88,21.12,oceania,pending
+transfer,66.63,195.98,Ulan Bator,Mongolia,10219,9/26/2016,43468,191,108572,0.34,2,199.9799957,195.98,66.63,eastern asia,processing
+debit,135.19,399.96,Dortmund,Alemania,10224,9/9/2015,17228,191,43087,0.34,5,499.9500122,399.96,135.19,western europe,complete
+transfer,64.79,239.96,Fes,Marruecos,10288,10/20/2016,45088,365,112591,0.27,4,239.9600067,239.96,64.79,north africa,pending
+debit,38.61,116.99,Murray Bridge,Australia,10291,11/17/2015,21966,403,54942,0.33,1,129.9900055,116.99,38.61,oceania,complete
+transfer,-11.81,187.5,Villahermosa,México,10344,5/16/2017,59387,502,148673,-0.06,5,250,187.5,-11.81,central america,pending
+debit,101.24,449.96,Birmingham,Reino Unido,10534,9/12/2015,17467,191,43664,0.23,5,499.9500122,449.96,101.24,northern europe,complete
+transfer,115.23,235.16,Turin,Italia,10549,7/14/2015,13298,365,33275,0.49,4,239.9600067,235.16,115.23,southern europe,canceled
+transfer,50.95,195.98,Launceston,Australia,10558,11/6/2015,21197,191,53020,0.26,2,199.9799957,195.98,50.95,oceania,pending
+transfer,77.08,164,Miramas,Francia,10577,9/1/2017,66764,502,166874,0.47,4,200,164,77.08,western europe,canceled
+transfer,82.93,230.36,Luton,Reino Unido,10614,6/8/2015,10856,365,27189,0.36,4,239.9600067,230.36,82.93,northern europe,pending
+debit,44.81,248.96,Aix-en-Provence,Francia,10647,7/24/2015,13991,365,35002,0.18,5,299.9500122,248.96,44.81,western europe,complete
+transfer,25.62,226.76,Sesto San Giovanni,Italia,10659,6/30/2015,12393,365,31010,0.11,4,239.9600067,226.76,25.62,southern europe,pending
+transfer,59.06,337.46,Itapecuru Mirim,Brasil,10668,6/12/2017,61192,251,153077,0.18,5,449.9500122,337.46,59.06,south america,processing
+debit,24.84,118.29,Namangán,Uzbekistán,10671,12/29/2016,49916,403,124787,0.21,1,129.9900055,118.29,24.84,central asia,complete
+transfer,47.04,96,seoul,Corea del Sur,10678,11/13/2015,21698,502,54283,0.49,2,100,96,47.04,eastern asia,pending
+debit,80.99,299.95,Dar es Salaam,Tanzania,10699,8/30/2016,41591,365,103815,0.27,5,299.9500122,299.95,80.99,east africa,on hold
+debit,-149.85,113.09,Waitakere,Nueva Zelanda,10790,3/23/2016,30658,403,76585,-1.33,1,129.9900055,113.09,-149.85,oceania,complete
+transfer,7.43,247.5,Bagdad,Irak,10811,11/17/2016,47011,502,117485,0.03,5,250,247.5,7.43,west asia,pending
+debit,28.81,254.96,Edinburgh,Reino Unido,10827,7/17/2015,13528,365,33905,0.11,5,299.9500122,254.96,28.81,northern europe,complete
+transfer,68.87,196.77,Savigny-le-Temple,Francia,10831,9/23/2015,18213,365,45533,0.35,4,239.9600067,196.77,68.87,western europe,pending
+transfer,25.91,95.98,Sincan,Turquía,10834,11/3/2016,46073,822,115172,0.27,2,95.98000336,95.98,25.91,west asia,pending
+transfer,35,100,Santarém,Brasil,10860,2/12/2015,2937,502,7333,0.35,2,100,100,35,south america,processing
+transfer,-107.87,173.98,Presidente Dutra,Brasil,10864,5/27/2015,10014,191,25020,-0.62,2,199.9799957,173.98,-107.87,south america,suspected fraud
+transfer,25.21,77.58,Bursa,Turquía,10884,9/7/2016,42152,627,105260,0.33,2,79.98000336,77.58,25.21,west asia,processing
+debit,14.09,52.19,Hirakata,japan,10891,1/16/2016,26036,365,65158,0.27,1,59.99000168,52.19,14.09,eastern asia,complete
+debit,15.11,120.89,Nantong,China,10966,12/13/2015,23767,403,59474,0.13,1,129.9900055,120.89,15.11,eastern asia,complete
+transfer,-65.25,90,Salihli,Turquía,11012,11/27/2016,47743,502,119384,-0.73,2,100,90,-65.25,west asia,canceled
+transfer,36.37,74.22,Des Plaines,Estados Unidos,11018,7/17/2016,38598,893,96337,0.49,3,74.97000122,74.22,36.37,us center,suspected fraud
+transfer,75.6,189,Utrecht,Países Bajos,11065,10/14/2015,19642,502,49112,0.4,4,200,189,75.6,western europe,canceled
+transfer,33.22,293.95,Cipolletti,Argentina,11106,2/6/2017,52562,365,131382,0.11,5,299.9500122,293.95,33.22,south america,processing
+transfer,-783.67,474.95,San Miguelito,Panamá,11149,5/7/2015,8678,191,21674,-1.65,5,499.9500122,474.95,-783.67,central america,processing
+debit,-115.42,484.95,Gien,Francia,11229,9/5/2017,67028,191,167556,-0.24,5,499.9500122,484.95,-115.42,western europe,complete
+transfer,98,200,Vassouras,Brasil,11273,6/15/2017,61419,502,153614,0.49,5,250,200,98,south america,suspected fraud
+debit,42.99,122.84,Tianjin,China,11286,2/12/2016,27918,403,69867,0.35,1,129.9900055,122.84,42.99,eastern asia,complete
+transfer,78,240,Tampico,México,11290,4/29/2015,8123,502,20277,0.33,5,250,240,78,central america,processing
+transfer,13.26,169.96,Santana de Parnaíba,Brasil,11310,1/21/2015,1386,627,3424,0.08,5,199.9499969,169.96,13.26,south america,processing
+payment,132.29,269.97,Drancy,Francia,11329,7/22/2017,63936,191,159828,0.49,3,299.9700012,269.97,132.29,western europe,pending payment
+payment,186.1,395.96,Villa Nueva,Guatemala,11339,1/27/2017,51911,191,129710,0.47,4,399.9599915,395.96,186.1,central america,pending payment
+debit,-171.59,114.39,Bagdad,Irak,11372,8/31/2016,41676,403,104041,-1.5,1,129.9900055,114.39,-171.59,west asia,complete
+transfer,147.83,351.96,Bry-sur-Marne,Francia,11388,9/11/2015,17347,191,43356,0.42,4,399.9599915,351.96,147.83,western europe,pending
+transfer,57.06,196.77,Southend-on-Sea,Reino Unido,11431,8/31/2015,16590,365,41460,0.29,4,239.9600067,196.77,57.06,northern europe,canceled
+transfer,-97.65,254.96,Sydney,Australia,11438,1/7/2016,25418,365,63668,-0.38,5,299.9500122,254.96,-97.65,oceania,pending
+debit,120.94,251.96,Bognor Regis,Reino Unido,11510,7/23/2017,63992,365,159991,0.48,5,299.9500122,251.96,120.94,northern europe,complete
+transfer,67.31,203.97,Rotherham,Reino Unido,11592,6/28/2017,62306,365,155767,0.33,4,239.9600067,203.97,67.31,northern europe,pending
+transfer,151.98,474.95,Manila,Filipinas,11664,11/2/2015,20931,191,52295,0.32,5,499.9500122,474.95,151.98,southeast asia,pending
+transfer,16.18,67.98,Perth,Australia,11675,11/27/2015,22612,627,56568,0.24,2,79.98000336,67.98,16.18,oceania,pending
+transfer,11.95,199.17,Mont-Saint-Aignan,Francia,11715,6/2/2015,10451,44,26173,0.06,4,239.9600067,199.17,11.95,western europe,pending
+transfer,71.39,203.97,Abidjan,Costa de Marfil,11720,1/9/2017,50688,365,126673,0.35,4,239.9600067,203.97,71.39,west africa,processing
+transfer,5.97,66.38,Chinautla,Guatemala,11753,6/7/2017,60868,627,152307,0.09,2,79.98000336,66.38,5.97,central america,processing
+transfer,44.19,169.96,David,Panamá,11761,2/25/2015,3828,627,9521,0.26,5,199.9499969,169.96,44.19,central america,pending
+transfer,31.88,118.08,Tijuana,México,11793,1/27/2015,1797,886,4490,0.27,5,124.9499969,118.08,31.88,central america,processing
+debit,32.78,126.09,Pamiers,Francia,11887,8/2/2015,14651,403,36657,0.26,1,129.9900055,126.09,32.78,western europe,complete
+debit,12.15,110.49,Jixi,China,11892,12/28/2015,24752,403,62000,0.11,1,129.9900055,110.49,12.15,eastern asia,complete
+debit,29.4,113.09,Wollongong,Australia,11922,3/18/2016,30323,403,75794,0.26,1,129.9900055,113.09,29.4,oceania,complete
+debit,6.17,54.59,Xinzhou,China,11924,3/10/2016,29746,365,74420,0.11,1,59.99000168,54.59,6.17,eastern asia,complete
+debit,7.62,120.89,Bendigo,Australia,11930,2/6/2016,27478,403,68790,0.06,1,129.9900055,120.89,7.62,oceania,complete
+debit,14.79,118.29,Yakarta,Indonesia,11979,11/16/2015,21868,403,54683,0.13,1,129.9900055,118.29,14.79,southeast asia,complete
+transfer,108.15,319.97,Groningen,Países Bajos,12019,7/27/2017,64274,191,160678,0.34,4,399.9599915,319.97,108.15,western europe,canceled
+transfer,90.22,191.95,Nantong,China,12033,11/17/2015,21973,627,54960,0.47,5,199.9499969,191.95,90.22,eastern asia,pending
+debit,40.95,116.99,Pekín,China,12038,11/16/2015,21907,403,54795,0.35,1,129.9900055,116.99,40.95,eastern asia,complete
+transfer,43,100,Joinville,Brasil,12094,3/5/2017,54446,502,136156,0.43,2,100,100,43,south america,processing
+debit,35.49,118.29,Ho Chi Minh City,Vietnam,12100,12/5/2015,23211,403,58110,0.3,1,129.9900055,118.29,35.49,southeast asia,complete
+transfer,27.19,217.5,Indaial,Brasil,12119,5/28/2015,10113,502,25272,0.13,5,250,217.5,27.19,south america,processing
+debit,66.49,474.95,Jartum,Sudán,12214,10/8/2016,44301,191,110620,0.14,5,499.9500122,474.95,66.49,north africa,on hold
+transfer,76.02,158.36,Lugansk,Ucrania,12216,12/27/2016,49763,278,124392,0.48,4,179.9600067,158.36,76.02,eastern europe,pending
+payment,0,126.68,Montpellier,Francia,12221,9/7/2015,17071,276,42688,0,4,127.9599991,126.68,0,western europe,pending payment
+transfer,-76.37,99.58,Kitchener,Canada,12253,8/30/2016,41623,627,103905,-0.77,3,119.9700012,99.58,-76.37,canada,suspected fraud
+transfer,-266.79,363.96,Livingstone,Zambia,12255,9/16/2016,42751,191,106706,-0.73,4,399.9599915,363.96,-266.79,east africa,pending
+transfer,76.02,211.16,Boghni,Argelia,12288,11/3/2016,46062,365,115136,0.36,4,239.9600067,211.16,76.02,north africa,processing
+transfer,59.99,199.95,Pinar del Río,Cuba,12291,1/25/2017,51746,627,129285,0.3,5,199.9499969,199.95,59.99,caribbean,processing
+debit,30.84,272.95,Stuttgart,Alemania,12350,7/16/2017,63512,365,158770,0.11,5,299.9500122,272.95,30.84,western europe,complete
+debit,118.66,339.03,Kilwinning,Reino Unido,13024,10/11/2017,69471,1349,172786,0.35,1,452.0400085,339.03,118.66,northern europe,complete
+debit,21.36,427.18,Drancy,Francia,13179,10/13/2017,69626,1349,172941,0.05,1,452.0400085,427.18,21.36,western europe,complete
+debit,195.28,406.84,Girona,España,13194,10/13/2017,69641,1349,172956,0.48,1,452.0400085,406.84,195.28,southern europe,complete
+debit,6.9,230.12,Oldham,Reino Unido,14604,11/3/2017,71051,1352,174366,0.03,1,252.8800049,230.12,6.9,northern europe,complete
+debit,22.84,456.87,Montreuil,Francia,14824,11/6/2017,71271,1353,174586,0.05,1,461.480011,456.87,22.84,western europe,complete
+debit,85.39,189.77,Perth,Australia,15995,11/23/2017,72442,1357,175757,0.45,1,210.8500061,189.77,85.39,oceania,complete
+debit,-262.87,183.44,Kathmandu,Nepal,16011,11/23/2017,72458,1357,175773,-1.43,1,210.8500061,183.44,-262.87,south asia,complete
+debit,94.02,191.87,Mudanjiang,China,16086,11/24/2017,72533,1357,175848,0.49,1,210.8500061,191.87,94.02,eastern asia,complete
+payment,157.32,327.75,Patna,India,16774,12/4/2017,73221,1360,176536,0.48,1,327.75,327.75,157.32,south asia,pending payment
+debit,72.86,200.71,Lianyuan,China,17446,12/14/2017,73893,1363,177208,0.36,1,215.8200073,200.71,72.86,eastern asia,complete
+debit,49.53,183.45,Tianjin,China,17459,12/14/2017,73906,1363,177221,0.27,1,215.8200073,183.45,49.53,eastern asia,complete
+debit,-38.52,50.22,Mangalore,India,17746,12/19/2017,74193,1347,177508,-0.77,1,59.08000183,50.22,-38.52,south asia,complete
+debit,-201.94,310.68,Kendari,Indonesia,18004,12/22/2017,74451,1350,177766,-0.65,1,357.1000061,310.68,-201.94,southeast asia,complete
+debit,37.77,429.18,Semarang,Indonesia,18276,12/26/2017,74723,1353,178038,0.09,1,461.480011,429.18,37.77,southeast asia,complete
+debit,43.61,436.1,Shenzhen,China,18349,12/27/2017,74796,1353,178111,0.1,1,461.480011,436.1,43.61,eastern asia,complete
+transfer,89.23,245.81,Bandung,Indonesia,19282,1/10/2018,75729,1360,179044,0.36,1,327.75,245.81,89.23,southeast asia,canceled
+payment,-102.93,268.76,Bandung,Indonesia,19284,1/10/2018,75731,1360,179046,-0.38,1,327.75,268.76,-102.93,southeast asia,pending payment
+transfer,-199.4,272.03,Nom Pen,Camboya,19285,1/10/2018,75732,1360,179047,-0.73,1,327.75,272.03,-199.4,southeast asia,pending
+debit,138.44,288.42,Newcastle,Australia,19289,1/10/2018,75736,1360,179051,0.48,1,327.75,288.42,138.44,oceania,complete
+transfer,103.24,294.98,Mardan,Pakistán,19290,1/10/2018,75737,1360,179052,0.35,1,327.75,294.98,103.24,south asia,processing
+payment,83.51,298.25,Mardan,Pakistán,19291,1/10/2018,75738,1360,179053,0.28,1,327.75,298.25,83.51,south asia,pending payment
+payment,121.43,311.36,Sydney,Australia,19294,1/10/2018,75741,1360,179056,0.39,1,327.75,311.36,121.43,oceania,pending payment
+transfer,110.12,314.64,Jiangyan,China,19295,1/10/2018,75742,1360,179057,0.35,1,327.75,314.64,110.12,eastern asia,suspected fraud
+payment,-63.58,317.92,Jiangyan,China,19296,1/10/2018,75743,1360,179058,-0.2,1,327.75,317.92,-63.58,eastern asia,pending payment
+debit,150.77,327.75,Manado,Indonesia,19299,1/10/2018,75746,1360,179061,0.46,1,327.75,327.75,150.77,southeast asia,complete
+transfer,53.75,268.76,Newcastle,Australia,19302,1/10/2018,75749,1360,179064,0.2,1,327.75,268.76,53.75,oceania,suspected fraud
+payment,-61.94,275.31,Rangún,Myanmar (Birmania),19304,1/10/2018,75751,1360,179066,-0.23,1,327.75,275.31,-61.94,southeast asia,pending payment
+transfer,73.27,278.59,Adelaide,Australia,19305,1/10/2018,75752,1360,179067,0.26,1,327.75,278.59,73.27,oceania,processing
+debit,29.83,298.25,Mackay,Australia,19309,1/10/2018,75756,1360,179071,0.1,1,327.75,298.25,29.83,oceania,complete
+payment,-502.93,304.81,Mackay,Australia,19310,1/10/2018,75757,1360,179072,-1.65,1,327.75,304.81,-502.93,oceania,pending payment
+payment,146.24,317.92,Canberra,Australia,19314,1/10/2018,75761,1360,179076,0.46,1,327.75,317.92,146.24,oceania,pending payment
+payment,88.62,262.2,Semarang,Indonesia,19319,1/10/2018,75766,1360,179081,0.34,1,327.75,262.2,88.62,southeast asia,pending payment
+transfer,45.69,268.76,Pune,India,19320,1/11/2018,75767,1360,179082,0.17,1,327.75,268.76,45.69,south asia,processing
+debit,30.74,272.03,Bihar Sharif,India,19321,1/11/2018,75768,1360,179083,0.11,1,327.75,272.03,30.74,south asia,complete
+transfer,96.95,285.14,Manila,Filipinas,19324,1/11/2018,75771,1360,179086,0.34,1,327.75,285.14,96.95,southeast asia,pending
+transfer,160.6,321.2,Perth,Australia,19333,1/11/2018,75780,1360,179095,0.5,1,327.75,321.2,160.6,oceania,canceled
+payment,35.69,324.47,Perth,Australia,19334,1/11/2018,75781,1360,179096,0.11,1,327.75,324.47,35.69,oceania,pending payment
+debit,95.05,327.75,Perth,Australia,19335,1/11/2018,75782,1360,179097,0.29,1,327.75,327.75,95.05,oceania,on hold
+debit,86.03,245.81,Chongqing,China,19336,1/11/2018,75783,1360,179098,0.35,1,327.75,245.81,86.03,eastern asia,complete
+transfer,-796.43,294.98,Daqing,China,19344,1/11/2018,75791,1360,179106,-2.7,1,327.75,294.98,-796.43,eastern asia,pending
+payment,-447.38,298.25,Daqing,China,19345,1/11/2018,75792,1360,179107,-1.5,1,327.75,298.25,-447.38,eastern asia,pending payment
+payment,-472.45,304.81,Yichun,China,19346,1/11/2018,75793,1360,179108,-1.55,1,327.75,304.81,-472.45,eastern asia,pending payment
+cash,135.3,314.64,Hobart,Australia,19349,1/11/2018,75796,1360,179111,0.43,1,327.75,314.64,135.3,oceania,closed
+transfer,31.79,317.92,Loudi,China,19350,1/11/2018,75797,1360,179112,0.1,1,327.75,317.92,31.79,eastern asia,pending
+transfer,144.54,321.2,Raipur,India,19351,1/11/2018,75798,1360,179113,0.45,1,327.75,321.2,144.54,south asia,processing
+transfer,-43.79,262.2,Brisbane,Australia,19355,1/11/2018,75802,1360,179117,-0.17,1,327.75,262.2,-43.79,oceania,suspected fraud
+transfer,28.27,321.2,Kota Kinabalu,Malasia,19369,1/11/2018,75816,1360,179131,0.09,1,327.75,321.2,28.27,southeast asia,processing
+cash,-237.84,324.47,Sydney,Australia,19370,1/11/2018,75817,1360,179132,-0.73,1,327.75,324.47,-237.84,oceania,closed
+transfer,-251.38,327.75,Sydney,Australia,19371,1/11/2018,75818,1360,179133,-0.77,1,327.75,327.75,-251.38,oceania,processing
+debit,26.88,268.76,Nagpur,India,19374,1/11/2018,75821,1360,179136,0.1,1,327.75,268.76,26.88,south asia,complete
+debit,98.75,272.03,Nagpur,India,19375,1/11/2018,75822,1360,179137,0.36,1,327.75,272.03,98.75,south asia,complete
+transfer,-183.63,275.31,Daca,Bangladés,19376,1/11/2018,75823,1360,179138,-0.67,1,327.75,275.31,-183.63,south asia,pending
+cash,135.56,288.42,Bangkok,Tailandia,19379,1/11/2018,75826,1360,179141,0.47,1,327.75,288.42,135.56,southeast asia,closed
+debit,95.87,294.98,Brisbane,Australia,19380,1/11/2018,75827,1360,179142,0.33,1,327.75,294.98,95.87,oceania,complete
+debit,20.88,298.25,Surabaya,Indonesia,19381,1/11/2018,75828,1360,179143,0.07,1,327.75,298.25,20.88,southeast asia,on hold
+cash,-540.79,327.75,Manila,Filipinas,19389,1/12/2018,75836,1360,179151,-1.65,1,327.75,327.75,-540.79,southeast asia,closed
+debit,134.9,275.31,Ho Chi Minh City,Vietnam,19394,1/12/2018,75841,1360,179156,0.49,1,327.75,275.31,134.9,southeast asia,complete
+transfer,69.65,278.59,Ho Chi Minh City,Vietnam,19395,1/12/2018,75842,1360,179157,0.25,1,327.75,278.59,69.65,southeast asia,processing
+transfer,125.27,298.25,Bangalore,India,19399,1/12/2018,75846,1360,179161,0.42,1,327.75,298.25,125.27,south asia,processing
+transfer,85.35,304.81,Bangalore,India,19400,1/12/2018,75847,1360,179162,0.28,1,327.75,304.81,85.35,south asia,suspected fraud
+transfer,111.27,317.92,Shanghái,China,19404,1/12/2018,75851,1360,179166,0.35,1,327.75,317.92,111.27,eastern asia,pending
+debit,20.24,321.2,Lahore,Pakistán,19405,1/12/2018,75852,1360,179167,0.06,1,327.75,321.2,20.24,south asia,complete
+debit,85.22,262.2,Shanghái,China,19409,1/12/2018,75856,1360,179171,0.33,1,327.75,262.2,85.22,eastern asia,on hold
+debit,131.69,268.76,Perth,Australia,19410,1/12/2018,75857,1360,179172,0.49,1,327.75,268.76,131.69,oceania,complete
+transfer,-61.94,275.31,Siping,China,19412,1/12/2018,75859,1360,179174,-0.23,1,327.75,275.31,-61.94,eastern asia,suspected fraud
+debit,106.93,285.14,Rockhampton,Australia,19414,1/12/2018,75861,1360,179176,0.38,1,327.75,285.14,106.93,oceania,complete
+transfer,-447.05,288.42,Rockhampton,Australia,19415,1/12/2018,75862,1360,179177,-1.55,1,327.75,288.42,-447.05,oceania,pending
+payment,22.12,294.98,Toowoomba,Australia,19416,1/12/2018,75863,1360,179178,0.08,1,327.75,294.98,22.12,oceania,pending payment
+cash,-34.75,304.81,Toowoomba,Australia,19418,1/12/2018,75865,1360,179180,-0.11,1,327.75,304.81,-34.75,oceania,closed
+payment,80.53,309.72,Yogyakarta,Indonesia,19419,1/12/2018,75866,1360,179181,0.26,1,327.75,309.72,80.53,southeast asia,pending payment
+transfer,149.45,311.36,Yogyakarta,Indonesia,19420,1/12/2018,75867,1360,179182,0.48,1,327.75,311.36,149.45,southeast asia,pending
+transfer,144.21,327.75,Pune,India,19425,1/12/2018,75872,1360,179187,0.44,1,327.75,327.75,144.21,south asia,pending
+transfer,-163.96,245.81,Pune,India,19426,1/12/2018,75873,1360,179188,-0.67,1,327.75,245.81,-163.96,south asia,processing
+transfer,36.18,272.03,Balikpapan,Indonesia,19429,1/12/2018,75876,1360,179191,0.13,1,327.75,272.03,36.18,southeast asia,pending
+transfer,-55.06,275.31,Balikpapan,Indonesia,19430,1/12/2018,75877,1360,179192,-0.2,1,327.75,275.31,-55.06,southeast asia,processing
+debit,20.89,278.59,Ujjain,India,19431,1/12/2018,75878,1360,179193,0.08,1,327.75,278.59,20.89,south asia,complete
+debit,59,294.98,Tongchuan,China,19434,1/12/2018,75881,1360,179196,0.2,1,327.75,294.98,59,eastern asia,complete
+transfer,74.56,298.25,Tongchuan,China,19435,1/12/2018,75882,1360,179197,0.25,1,327.75,298.25,74.56,eastern asia,pending
+transfer,114.21,314.64,Sydney,Australia,19439,1/12/2018,75886,1360,179201,0.36,1,327.75,314.64,114.21,oceania,canceled
+debit,111.27,317.92,Herat,Afganistán,19440,1/12/2018,75887,1360,179202,0.35,1,327.75,317.92,111.27,south asia,complete
+payment,-36.3,321.2,Herat,Afganistán,19441,1/12/2018,75888,1360,179203,-0.11,1,327.75,321.2,-36.3,south asia,pending payment
+debit,103.24,245.81,Qingdao,China,19444,1/12/2018,75891,1360,179206,0.42,1,327.75,245.81,103.24,eastern asia,complete
+transfer,-45.89,262.2,Bhilai,India,19445,1/12/2018,75892,1360,179207,-0.18,1,327.75,262.2,-45.89,south asia,processing
+transfer,0,268.76,Yiwu,China,19446,1/12/2018,75893,1360,179208,0,1,327.75,268.76,0,eastern asia,processing
+debit,31.48,278.59,Canberra,Australia,19449,1/12/2018,75896,1360,179211,0.11,1,327.75,278.59,31.48,oceania,complete
+payment,119.76,285.14,Medan,Indonesia,19450,1/12/2018,75897,1360,179212,0.42,1,327.75,285.14,119.76,southeast asia,pending payment
+cash,132.67,288.42,Medan,Indonesia,19451,1/12/2018,75898,1360,179213,0.46,1,327.75,288.42,132.67,southeast asia,closed
+transfer,57.3,304.81,Wollongong,Australia,19454,1/12/2018,75901,1360,179216,0.19,1,327.75,304.81,57.3,oceania,canceled
+payment,24.58,327.75,Delhi,India,19461,1/13/2018,75908,1360,179223,0.08,1,327.75,327.75,24.58,south asia,pending payment
+transfer,23.65,268.76,Guilin,China,19464,1/13/2018,75911,1360,179226,0.09,1,327.75,268.76,23.65,eastern asia,processing
+debit,-17.14,272.03,Guilin,China,19465,1/13/2018,75912,1360,179227,-0.06,1,327.75,272.03,-17.14,eastern asia,complete
+payment,82.59,275.31,Guilin,China,19466,1/13/2018,75913,1360,179228,0.3,1,327.75,275.31,82.59,eastern asia,pending payment
+transfer,90.28,288.42,Brisbane,Australia,19469,1/13/2018,75916,1360,179231,0.31,1,327.75,288.42,90.28,oceania,suspected fraud
+transfer,17.7,294.98,Geelong,Australia,19470,1/13/2018,75917,1360,179232,0.06,1,327.75,294.98,17.7,oceania,canceled
+transfer,154.86,309.72,Jabalpur,India,19473,1/13/2018,75920,1360,179235,0.5,1,327.75,309.72,154.86,south asia,processing
+payment,87.18,311.36,Jabalpur,India,19474,1/13/2018,75921,1360,179236,0.28,1,327.75,311.36,87.18,south asia,pending payment
+transfer,130.58,272.03,Tokio,japan,19483,1/13/2018,75930,1360,179245,0.48,1,327.75,272.03,130.58,eastern asia,suspected fraud
+transfer,18.58,294.98,Toowoomba,Australia,19488,1/13/2018,75935,1360,179250,0.06,1,327.75,294.98,18.58,oceania,canceled
+payment,134.21,298.25,Townsville,Australia,19489,1/13/2018,75936,1360,179251,0.45,1,327.75,298.25,134.21,oceania,pending payment
+debit,22.86,304.81,Townsville,Australia,19490,1/13/2018,75937,1360,179252,0.08,1,327.75,304.81,22.86,oceania,complete
+cash,-247.78,309.72,Bikaner,India,19491,1/13/2018,75938,1360,179253,-0.8,1,327.75,309.72,-247.78,south asia,closed
+debit,-11.21,189.92,Perth,Australia,20400,1/26/2018,76847,1363,180162,-0.06,1,215.8200073,189.92,-11.21,oceania,complete
+debit,62.82,200.71,Adelaide,Australia,20529,1/28/2018,76976,1363,180291,0.31,1,215.8200073,200.71,62.82,oceania,complete
+debit,50.5,194.24,Lahore,Pakistán,20545,1/28/2018,76992,1363,180307,0.26,1,215.8200073,194.24,50.5,south asia,complete
+debit,76.27,200.71,Rangún,Myanmar (Birmania),20655,1/30/2018,77102,1363,180417,0.38,1,215.8200073,200.71,76.27,southeast asia,complete
+debit,91.25,314.64,Bekasi,Indonesia,20755,1/31/2018,77202,1360,180517,0.29,1,327.75,314.64,91.25,southeast asia,complete
